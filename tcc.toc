@@ -1,0 +1,60 @@
+\changetocdepth {4}
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase []{Introdução}}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Contexto}{5}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Justificativa}{6}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Objetivo}{7}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Objetivo principal}{7}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Objetivos secundários}{7}{subsection.1.3.2}%
+\contentsline {section}{\numberline {1.4}Metodologia da pesquisa bibliográfica}{7}{section.1.4}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase []{Revisão Bibliográfica}}{10}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Referencial teórico}{10}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Redes de computadores}{10}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Protocolo}{10}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Modelo TCP/IP}{11}{subsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.3.1}Camada de Aplicação}{11}{subsubsection.2.1.3.1}%
+\contentsline {subsubsection}{\numberline {2.1.3.2}Camada de Transporte}{12}{subsubsection.2.1.3.2}%
+\contentsline {subsubsection}{\numberline {2.1.3.3}Camada de Internet}{12}{subsubsection.2.1.3.3}%
+\contentsline {subsubsection}{\numberline {2.1.3.4}Camada de Interface de Rede}{12}{subsubsection.2.1.3.4}%
+\contentsline {subsection}{\numberline {2.1.4}IP - Internet Protocol}{12}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}TCP - Transmission Control Protocol}{13}{subsection.2.1.5}%
+\contentsline {subsection}{\numberline {2.1.6}Cibersegurança}{14}{subsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.1.7}Segurança de redes}{14}{subsection.2.1.7}%
+\contentsline {subsection}{\numberline {2.1.8}Sistemas de detecção de intrusão (IDS)}{15}{subsection.2.1.8}%
+\contentsline {subsection}{\numberline {2.1.9}Ataque DoS}{15}{subsection.2.1.9}%
+\contentsline {subsection}{\numberline {2.1.10}DDoS}{16}{subsection.2.1.10}%
+\contentsline {subsection}{\numberline {2.1.11}Análise do Dataset CICDDoS2019}{17}{subsection.2.1.11}%
+\contentsline {subsection}{\numberline {2.1.12}Inteligência Artificial}{18}{subsection.2.1.12}%
+\contentsline {subsection}{\numberline {2.1.13}Machine Learning}{18}{subsection.2.1.13}%
+\contentsline {subsection}{\numberline {2.1.14}Machine Learning aplicado à detecção de intrusão}{19}{subsection.2.1.14}%
+\contentsline {subsection}{\numberline {2.1.15}Algoritmos de Aprendizado de Máquina}{20}{subsection.2.1.15}%
+\contentsline {subsection}{\numberline {2.1.16}Aprendizado Supervisionado}{21}{subsection.2.1.16}%
+\contentsline {subsection}{\numberline {2.1.17}Decision Trees}{21}{subsection.2.1.17}%
+\contentsline {subsection}{\numberline {2.1.18}Random Forest}{22}{subsection.2.1.18}%
+\contentsline {subsection}{\numberline {2.1.19}Support Vector Machine}{23}{subsection.2.1.19}%
+\contentsline {subsection}{\numberline {2.1.20}Métricas de Avaliação de Modelos}{24}{subsection.2.1.20}%
+\contentsline {subsection}{\numberline {2.1.21}Acurácia}{24}{subsection.2.1.21}%
+\contentsline {subsection}{\numberline {2.1.22}Recall}{25}{subsection.2.1.22}%
+\contentsline {subsection}{\numberline {2.1.23}Precisão}{26}{subsection.2.1.23}%
+\contentsline {subsection}{\numberline {2.1.24}F1-Score}{26}{subsection.2.1.24}%
+\contentsline {subsection}{\numberline {2.1.25}Coeficiente de correlação de Matthews (MCC)}{27}{subsection.2.1.25}%
+\contentsline {section}{\numberline {2.2}Trabalhos relacionados}{27}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Trabalho 1: An Analysis of Intrusion Detection Classification using Supervised Machine Learning Algorithms on NSL-KDD Dataset}{27}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Trabalho 2: Detecting DDoS Threats Using Supervised Machine Learning for Traffic Classification in Software Defined Networking}{27}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Trabalho 3: Distributed Denial-of-Service (DDoS) Attack Detection Using Supervised Machine Learning Algorithms}{28}{subsection.2.2.3}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase []{Desenvolvimento}}{30}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Solução proposta}{30}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Visão geral da solução}{30}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Metodologia}{30}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Tecnologias e ferramentas}{33}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Funcionalidades principais}{34}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}Metodologia de desenvolvimento}{34}{subsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.1.6}Critérios de validação}{35}{subsection.3.1.6}%
+\contentsline {section}{\numberline {3.2}Cronograma de trabalho}{35}{section.3.2}%
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\MakeTextUppercase []{Refer\^encias}}{37}{section*.5}%

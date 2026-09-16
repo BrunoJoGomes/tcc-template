@@ -1,0 +1,674 @@
+% ===============================================================
+% BIBLIOGRAFIA - TEMPLATE TCC1 SENAC SANTO AMARO
+% ===============================================================
+% Este arquivo contém exemplos de referências no padrão ABNT
+% (NBR 6023:2018) para diferentes tipos de fontes.
+%
+% O pacote abntex2cite formata automaticamente as referências.
+% Basta adicionar suas entradas aqui e usar \cite ou
+% \citeonline no texto.
+%
+% TIPOS DE ENTRADA E FORMATO ABNT:
+% -----------------------------------------------------------------
+% book          -> SOBRENOME, Nome. Titulo. Edicao. Local: Editora, Ano.
+% article       -> SOBRENOME, Nome. Titulo do artigo. Periodico, v. X, n. Y, p. XX-YY, Ano.
+% inproceedings -> SOBRENOME, Nome. Titulo. In: EVENTO, Local. Anais. Editora, Ano. p. XX-YY.
+% mastersthesis -> SOBRENOME, Nome. Titulo. Ano. Dissertacao (Mestrado) - Instituicao, Local, Ano.
+% phdthesis     -> SOBRENOME, Nome. Titulo. Ano. Tese (Doutorado) - Instituicao, Local, Ano.
+% misc          -> SOBRENOME, Nome. Titulo. Ano. Disponivel em: URL. Acesso em: data.
+% manual        -> ORGANIZACAO. Titulo. Local, Ano.
+% ===============================================================
+
+
+% ---------------------------------------------------------------
+% EXEMPLOS DE LIVROS
+% Formato ABNT: SOBRENOME, Nome. Titulo: subtitulo. Edicao. Local: Editora, Ano.
+% ---------------------------------------------------------------
+
+% Livro com um autor
+@book{Wazlawick2020,
+  author    = {Raul Sidnei Wazlawick},
+  title     = {Metodologia de Pesquisa para Ciência da Computação},
+  publisher = {Elsevier},
+  year      = {2020},
+  edition   = {3},
+  address   = {Rio de Janeiro}
+}
+
+% Livro com dois autores
+@book{Pressman2016,
+  author    = {Roger S. Pressman and Bruce R. Maxim},
+  title     = {Engenharia de Software: uma abordagem profissional},
+  publisher = {McGraw-Hill},
+  year      = {2016},
+  edition   = {8},
+  address   = {Porto Alegre}
+}
+
+% Livro com um autor (outro exemplo)
+@book{Sommerville2019,
+  author    = {Ian Sommerville},
+  title     = {Engenharia de Software},
+  publisher = {Pearson},
+  year      = {2019},
+  edition   = {10},
+  address   = {São Paulo}
+}
+
+% Livro traduzido
+@book{Gamma2000,
+  author    = {Erich Gamma and Richard Helm and Ralph Johnson and John Vlissides},
+  title     = {Padrões de Projeto: soluções reutilizáveis de software orientado a objetos},
+  publisher = {Bookman},
+  year      = {2000},
+  address   = {Porto Alegre},
+  note      = {Tradução de Luiz A. Meirelles Salgado}
+}
+
+@book{Tanenbaum2011,
+  author    = {Andrew S. Tanenbaum and David J. Wetherall},
+  title     = {Redes de Computadores},
+  publisher = {Pearson},
+  year      = {2011},
+  edition   = {5},
+  address   = {São Paulo},
+  note      = {Tradução de Daniel Vieira}
+}
+
+% Livro em inglês
+@book{Cormen2009,
+  author    = {Thomas H. Cormen and Charles E. Leiserson and Ronald L. Rivest and Clifford Stein},
+  title     = {Introduction to Algorithms},
+  publisher = {MIT Press},
+  year      = {2009},
+  edition   = {3},
+  address   = {Cambridge}
+}
+
+@book{Vapnik1998,
+  author    = {Vladimir N. Vapnik},
+  title     = {Statistical Learning Theory},
+  publisher = {Wiley},
+  year      = {1998},
+  address   = {New York}
+}
+
+@book{Stevens1994,
+  author    = {W. Richard Stevens},
+  title     = {TCP/IP Illustrated, Volume 1: The Protocols},
+  publisher = {Addison-Wesley},
+  year      = {1994},
+  edition   = {1},
+  address   = {Reading}
+}
+
+@book{Mohri2018,
+  author    = {Mehryar Mohri and Afshin Rostamizadeh and Ameet Talwalkar},
+  title     = {Foundations of Machine Learning},
+  publisher = {MIT Press},
+  year      = {2018},
+  edition   = {2},
+  address   = {Cambridge}
+}
+
+@book{Russell2010,
+  author    = {Stuart J. Russell and Peter Norvig},
+  title     = {Artificial Intelligence: A Modern Approach},
+  publisher = {Pearson Education},
+  year      = {2010},
+  edition   = {3},
+  address   = {Upper Saddle River}
+}
+
+@book{Mitchell1997,
+  author    = {Tom M. Mitchell},
+  title     = {Machine Learning},
+  publisher = {McGraw-Hill},
+  year      = {1997},
+  address   = {New York},
+  isbn      = {9780070428072}
+}
+
+@book{Chio2018,
+  author    = {Clarence Chio and David Freeman},
+  title     = {Machine Learning and Security: Protecting Systems with Data and Algorithms},
+  publisher = {O'Reilly Media},
+  year      = {2018},
+  edition = {1},
+  address   = {Sebastopol}
+}
+
+@book{Gopalakrishnan2023,
+  author    = {Shreevanth Gopalakrishnan and Nilufer Tuptuk and Stephen Hailes},
+  title     = {Machine Learning-based Intrusion Detection Systems: Deployment Guidelines for Industry},
+  publisher = {PETRAS National Centre of Excellence for IoT Systems Cybersecurity},
+  year      = {2023},
+  address   = {London}
+}
+
+@book{Breiman1984,
+  author    = {Leo Breiman and Jerome Friedman and R. A. Olshen and Charles J. Stone},
+  title     = {Classification and Regression Trees},
+  publisher = {Chapman and Hall/CRC},
+  year      = {1984},
+  edition   = {1},
+  address   = {New York},
+  doi       = {10.1201/9781315139470}
+}
+
+@book{Stallings2022,
+  author    = {William Stallings},
+  title     = {Cryptography and Network Security: Principles and Practice},
+  publisher = {Pearson},
+  year      = {2022},
+  edition   = {8},
+  address   = {Harlow},
+  isbn      = {9781292437484}
+}
+
+@book{Schneier1996,
+  author    = {Bruce Schneier},
+  title     = {Applied Cryptography: Protocols, Algorithms, and Source Code in C},
+  publisher = {John Wiley \& Sons},
+  year      = {1996},
+  edition   = {2},
+  address   = {New York}
+}
+
+@book{James2021,
+  author    = {Gareth James and Daniela Witten and Trevor Hastie and Robert Tibshirani},
+  title     = {An Introduction to Statistical Learning: with Applications in R},
+  publisher = {Springer},
+  year      = {2021},
+  edition   = {2},
+  address   = {Cham},
+  doi       = {10.1007/978-1-0716-1418-1},
+  url       = {https://link.springer.com/book/10.1007/978-1-0716-1418-1}
+}
+
+
+% ---------------------------------------------------------------
+% EXEMPLOS DE ARTIGOS DE PERIODICOS
+% Formato ABNT: SOBRENOME, Nome. Titulo do artigo. Periodico, Local, v. X, n. Y, p. XX-YY, ano.
+% ---------------------------------------------------------------
+
+% Artigo em periódico nacional
+@article{Silva2022,
+  author  = {João Carlos Silva and Maria Aparecida Santos},
+  title   = {Aplicação de técnicas formais na validação de sistemas distribuídos},
+  journal = {Revista Brasileira de Computação Aplicada},
+  year    = {2022},
+  volume  = {14},
+  number  = {2},
+  pages   = {45--58},
+  doi     = {10.5335/rbca.v14i2.12345}
+}
+
+@article{Tandon2020,
+  author  = {Rajat Tandon},
+  title   = {A Survey of Distributed Denial of Service Attacks and Defenses},
+  journal = {arXiv},
+  year    = {2020},
+  note    = {arXiv:2008.01345},
+  url     = {https://arxiv.org/pdf/2008.01345}
+}
+
+@article{Luxburg2008,
+  author  = {Ulrike von Luxburg and Bernhard Sch{\"o}lkopf},
+  title   = {Statistical Learning Theory: Models, Concepts, and Results},
+  journal = {arXiv},
+  year    = {2008},
+  note    = {arXiv:0810.4752},
+  url     = {https://arxiv.org/abs/0810.4752}
+}
+
+% Artigo em periódico internacional
+@article{LeCun2015,
+  author  = {Yann LeCun and Yoshua Bengio and Geoffrey Hinton},
+  title   = {Deep Learning},
+  journal = {Nature},
+  year    = {2015},
+  volume  = {521},
+  number  = {7553},
+  pages   = {436--444},
+  doi     = {10.1038/nature14539}
+}
+
+@article{Kathi2026,
+  author  = {Swathi Kathi and Narsimha Gugulothu},
+  title   = {FE-DADT: A Feature Engineering Driven DDoS Attack Detection Technique and Evaluation for Effective Mitigation},
+  journal = {Journal of Theoretical and Applied Information Technology},
+  year    = {2026},
+  volume  = {104},
+  number  = {4},
+  pages   = {255--277},
+  issn    = {1992-8645},
+  url     = {https://www.researchgate.net/publication/401574184_FE-DADT_A_FEATURE_ENGINEERING_DRIVEN_DDOS_ATTACK_DETECTION_TECHNIQUE_AND_EVALUATION_FOR_EFFECTIVE_MITIGATION}
+}
+
+% Artigo com DOI
+@article{Rastogi2022,
+  author  = {Sarthak Rastogi and Archit Shrotriya and Mitul Kumar Singh and P. Raghu Vamsi},
+  title   = {An Analysis of Intrusion Detection Classification using Supervised Machine Learning Algorithms on NSL-KDD Dataset},
+  journal = {Journal of Computing Research and Innovation},
+  year    = {2022},
+  volume  = {7},
+  number  = {1},
+  pages   = {118--130},
+  doi     = {10.24191/jcrinn.v7i1.274},
+  url     = {https://doi.org/10.24191/jcrinn.v7i1.274}
+}
+
+@article{Bashaiwth2023,
+  author    = {Abdulmuneem Bashaiwth and Hamad Binsalleeh and Basil AsSadhan},
+  title     = {An Explanation of the LSTM Model Used for DDoS Attacks Classification},
+  journal   = {Applied Sciences},
+  year      = {2023},
+  volume    = {13},
+  number    = {15},
+  pages     = {8820},
+  publisher = {MDPI},
+  doi       = {10.3390/app13158820},
+  url       = {https://doi.org/10.3390/app13158820}
+}
+
+@article{Mualfah2025,
+  author  = {Desti Mualfah and Rudi Ardiansyah and Rahmad Gunawan},
+  title   = {Classification of DDoS Attacks Using the Random Forest Method and Class Weight Technique on the CICDDoS2019 Dataset},
+  journal = {Jurnal CoSciTech (Computer Science and Information Technology)},
+  year    = {2025},
+  volume  = {6},
+  number  = {3},
+  pages   = {530--535},
+  doi     = {10.37859/coscitech.v6i3.10731},
+  url     = {https://ejurnal.umri.ac.id/index.php/coscitech/article/view/10731}
+}
+
+@article{Chicco2023,
+  author  = {Davide Chicco and Giuseppe Jurman},
+  title   = {The Matthews Correlation Coefficient (MCC) Should Replace the ROC AUC as the Standard Metric for Assessing Binary Classification},
+  journal = {BioData Mining},
+  year    = {2023},
+  volume  = {16},
+  pages   = {4},
+  doi     = {10.1186/s13040-023-00322-4},
+  url     = {https://doi.org/10.1186/s13040-023-00322-4}
+}
+
+@article{Breiman2001,
+  author  = {Leo Breiman},
+  title   = {Random Forests},
+  journal = {Machine Learning},
+  year    = {2001},
+  volume  = {45},
+  number  = {1},
+  pages   = {5--32},
+  doi     = {10.1023/A:1010933404324},
+  url     = {https://link.springer.com/article/10.1023/A:1010933404324}
+}
+
+@article{Rainio2024,
+  author  = {Oona Rainio and Jarmo Teuho and Riku Kl{\"e}n},
+  title   = {Evaluation metrics and statistical tests for machine learning},
+  journal = {Scientific Reports},
+  year    = {2024},
+  volume  = {14},
+  number  = {1},
+  publisher = {Springer Nature},
+  doi     = {10.1038/s41598-024-56706-x},
+  url     = {https://doi.org/10.1038/s41598-024-56706-x}
+}
+
+@article{Chicco2020,
+  author  = {Davide Chicco and Giuseppe Jurman},
+  title   = {The advantages of the Matthews correlation coefficient (MCC) over F1 score and accuracy in binary classification evaluation},
+  journal = {BMC Genomics},
+  year    = {2020},
+  volume  = {21},
+  number  = {6},
+  publisher = {Springer Nature},
+  doi     = {10.1186/s12864-019-6413-7},
+  url     = {https://doi.org/10.1186/s12864-019-6413-7}
+}
+
+@article{Hand2021,
+  author  = {David J. Hand and Peter Christen and Nishadi Kirielle},
+  title   = {F*: an interpretable transformation of the F-measure},
+  journal = {Machine Learning},
+  year    = {2021},
+  volume  = {110},
+  pages   = {451--456},
+  publisher = {Springer Nature},
+  doi     = {10.1007/s10994-021-05964-1},
+  url     = {https://doi.org/10.1007/s10994-021-05964-1}
+}
+
+@article{Cortes1995,
+  author  = {Corinna Cortes and Vladimir Vapnik},
+  title   = {Support-Vector Networks},
+  journal = {Machine Learning},
+  year    = {1995},
+  volume  = {20},
+  number  = {3},
+  pages   = {273--297},
+  doi     = {10.1007/BF00994018},
+  url     = {https://link.springer.com/article/10.1007/BF00994018}
+}
+
+@article{Hirsi2024,
+  author  = {Abdinasir Hirsi and Lukman Audah and Adeb Salh and Mohammed A. Alhartomi and Salman Ahmed},
+  title   = {Detecting DDoS Threats Using Supervised Machine Learning for Traffic Classification in Software Defined Networking},
+  journal = {IEEE Access},
+  year    = {2024},
+  volume  = {12},
+  pages   = {166675--166702},
+  doi     = {10.1109/ACCESS.2024.3486034},
+  url     = {https://doi.org/10.1109/ACCESS.2024.3486034}
+}
+
+@article{Abiramasundari2025,
+  author  = {S. Abiramasundari and V. Ramaswamy},
+  title   = {Distributed denial-of-service (DDOS) attack detection using supervised machine learning algorithms},
+  journal = {Scientific Reports},
+  year    = {2025},
+  volume  = {15},
+  number  = {1},
+  pages   = {1--14},
+  publisher = {Nature Portfolio},
+  doi     = {10.1038/s41598-024-84879-y},
+  url     = {https://doi.org/10.1038/s41598-024-84879-y}
+}
+
+@article{Thaqi2026,
+  author  = {Rrezearta Thaqi and Gabriele Lenzini and Marcus V{\"o}lp and Blerim Rexha},
+  title   = {Online machine learning for proactive threat intelligence and timely DDoS attack prediction},
+  journal = {Journal of Cloud Computing},
+  year    = {2026},
+  volume  = {15},
+  number  = {22},
+  publisher = {Springer Nature},
+  doi     = {10.1186/s13677-026-00848-y},
+  url     = {https://doi.org/10.1186/s13677-026-00848-y}
+}
+
+@article{Ouhssini2024,
+  author  = {Mohamed Ouhssini and Karim Afdel and Mohamed Akouhar and Elhafed Agherrabi and Abdallah Abarda},
+  title   = {Advancements in detecting, preventing, and mitigating DDoS attacks in cloud environments: A comprehensive systematic review of state-of-the-art approaches},
+  journal = {Egyptian Informatics Journal},
+  year    = {2024},
+  volume  = {27},
+  pages   = {100517},
+  doi     = {10.1016/j.eij.2024.100517},
+  url     = {https://doi.org/10.1016/j.eij.2024.100517}
+}
+
+@article{Aktar2023,
+  author  = {Sharmin Aktar and Abdullah Yasin Nur},
+  title   = {Towards DDoS Attack Detection Using Deep Learning Approach},
+  journal = {Computers \& Security},
+  year    = {2023},
+  volume  = {129},
+  pages   = {103251},
+  doi     = {10.1016/j.cose.2023.103251}
+}
+
+
+@article{Subramani2020,
+  author  = {Karthika Subramani and Roberto Perdisci and Maria Konte},
+  title   = {{IXmon}: Detecting and Analyzing DRDoS Attacks at Internet Exchange Points},
+  journal = {arXiv},
+  year    = {2020},
+  note    = {arXiv:2006.12555v2 [cs.NI]},
+  url     = {https://arxiv.org/abs/2006.12555}
+}
+
+@article{Zschache2026,
+  author  = {J. Zschache and T. Hartwig},
+  title   = {Comparing energy consumption and accuracy in text classification inference},
+  journal = {Scientific Reports},
+  year    = {2026},
+  volume  = {16},
+  pages   = {12717},
+  publisher = {Springer Nature},
+  doi     = {10.1038/s41598-026-45023-0},
+  url     = {https://doi.org/10.1038/s41598-026-45023-0}
+}
+
+
+@article{Salih2024,
+  author  = {Azar Abid Salih and Maiwan Bahjat Abdulrazaq},
+  title   = {Cybernet Model: A New Deep Learning Model for Cyber DDoS Attacks Detection and Recognition},
+  journal = {Computers, Materials and Continua},
+  year    = {2024},
+  volume  = {78},
+  number  = {1},
+  pages   = {1275--1295},
+  doi     = {10.32604/cmc.2023.046101},
+  url     = {https://doi.org/10.32604/cmc.2023.046101}
+}
+
+@article{Elubeyd2023,
+  author  = {Hani Elubeyd and Derya Yiltas-Kaplan},
+  title   = {Hybrid Deep Learning Approach for Automatic DoS/DDoS Attacks Detection in Software-Defined Networks},
+  journal = {Applied Sciences},
+  year    = {2023},
+  volume  = {13},
+  number  = {6},
+  pages   = {3828},
+  doi     = {10.3390/app13063828},
+  url     = {https://doi.org/10.3390/app13063828}
+}
+
+
+% ---------------------------------------------------------------
+% EXEMPLOS DE ARTIGOS EM ANAIS DE EVENTOS
+% Formato ABNT: SOBRENOME, Nome. Titulo. In: EVENTO, Local. Anais. Editora, Ano.
+% ---------------------------------------------------------------
+
+% Artigo em congresso nacional
+@inproceedings{Oliveira2023,
+  author    = {Ana Paula Oliveira and Carlos Eduardo Ferreira},
+  title     = {Uma abordagem baseada em microsserviços para sistemas de e-commerce},
+  booktitle = {Anais do Simpósio Brasileiro de Engenharia de Software},
+  year      = {2023},
+  address   = {Campo Grande},
+  pages     = {112--121},
+  publisher = {SBC},
+  doi       = {10.5753/sbes.2023.00015}
+}
+
+% Artigo em congresso internacional
+@inproceedings{Chen2016,
+  author    = {Tianqi Chen and Carlos Guestrin},
+  title     = {{XGBoost}: A Scalable Tree Boosting System},
+  booktitle = {Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+  year      = {2016},
+  address   = {San Francisco},
+  pages     = {785--794},
+  publisher = {ACM},
+  doi       = {10.1145/2939672.2939785}
+}
+
+@inproceedings{Sharafaldin2019,
+  author    = {Iman Sharafaldin and Arash Habibi Lashkari and Saqib Hakak and Ali A. Ghorbani},
+  title     = {Developing Realistic Distributed Denial of Service (DDoS) Attack Dataset and Taxonomy},
+  booktitle = {2019 International Carnahan Conference on Security Technology (ICCST)},
+  year      = {2019},
+  address   = {Chennai},
+  publisher = {IEEE},
+  doi       = {10.1109/CCST.2019.8888419}
+}
+
+
+% ---------------------------------------------------------------
+% EXEMPLOS DE DISSERTACOES E TESES
+% Formato ABNT: SOBRENOME, Nome. Titulo. Ano. Dissertacao/Tese - Instituicao, Local, Ano.
+% ---------------------------------------------------------------
+
+% Dissertação de mestrado
+
+@mastersthesis{Paes2023,
+  author  = {Domingos Sávio Faria Paes},
+  title   = {Detecção preditiva de anomalias em redes de computadores com utilização de aprendizagem de máquina},
+  school  = {Universidade Federal de Itajubá (UNIFEI)},
+  year    = {2023},
+  address = {Itajubá},
+  type    = {Dissertação (Mestrado em Ciência e Tecnologia da Computação)}
+}
+
+% Tese de doutorado
+@phdthesis{Ferreira2019,
+  author  = {Juliana Cristina Ferreira},
+  title   = {Modelos de deep learning para processamento de linguagem natural em português brasileiro},
+  school  = {Universidade Estadual de Campinas},
+  year    = {2019},
+  address = {Campinas},
+  type    = {Tese (Doutorado em Ciência da Computação)}
+}
+
+
+% ---------------------------------------------------------------
+% EXEMPLOS DE SITES E RECURSOS ONLINE
+% Formato ABNT: AUTOR ou ORGANIZACAO. Titulo. Ano. Disponivel em: URL. Acesso em: data.
+% ---------------------------------------------------------------
+
+% Site institucional
+@misc{IBGE2024,
+  author = {{IBGE}},
+  title  = {Pesquisa Nacional por Amostra de Domicílios Contínua -- {PNAD} Contínua},
+  year   = {2024},
+  url    = {https://www.ibge.gov.br/estatisticas/sociais/trabalho/9171-pesquisa-nacional-por-amostra-de-domicilios-continua-mensal.html},
+  note   = {Acesso em: 15 jan. 2025}
+}
+
+
+@misc{CheckPoint2026,
+  author = {{Check Point Research}},
+  title  = {Cyber Security Report 2026},
+  year   = {2026},
+  url    = {https://www.checkpoint.com/security-report/},
+  note   = {Publicado em 28 jan. 2026. Acesso em: 1 maio 2026}
+}
+
+@misc{ESR2020,
+  author = {{Escola Superior de Redes}},
+  title  = {Arquitetura TCP/IP: conceitos básicos},
+  year   = {2020},
+  url    = {https://esr.rnp.br/administracao-e-projeto-de-redes/arquitetura-tcp-ip/},
+  note   = {Acesso em: 1 maio 2026}
+}
+
+@misc{PythonReference2026,
+  author = {{Python Software Foundation}},
+  title  = {Python 3 Documentation},
+  year   = {2026},
+  url    = {https://docs.python.org/3/},
+  note   = {Documentação oficial da linguagem Python e biblioteca padrão. Acesso em: 20 maio 2026}
+}
+
+@misc{ScikitLearn2026,
+  author = {{Scikit-learn Developers}},
+  title  = {Scikit-learn: Machine Learning in Python},
+  year   = {2026},
+  url    = {https://scikit-learn.org/stable/index.html},
+  note   = {Documentação oficial da biblioteca Scikit-learn. Acesso em: 25 maio 2026}
+}
+
+@misc{JupyterDocs2026,
+  author = {{Project Jupyter}},
+  title  = {Project Jupyter Documentation},
+  year   = {2026},
+  url    = {https://docs.jupyter.org/en/latest/},
+  note   = {Documentação oficial do Project Jupyter. Acesso em: 5 jun. 2026}
+}
+
+@misc{IBM2026,
+  author = {{IBM}},
+  title  = {O que é um ataque distributed denial-of-service (DDoS)?},
+  year   = {2026},
+  url    = {https://www.ibm.com/br-pt/think/topics/ddos},
+  note   = {Acesso em: 1 maio 2026}
+}
+
+@misc{Cloudflare2025,
+  author = {{Cloudflare}},
+  title  = {DDoS Threat Report for 2025 Q4},
+  year   = {2025},
+  url    = {https://radar.cloudflare.com/reports/ddos-2025-q4},
+  note   = {Acesso em: 5 maio 2026}
+}
+
+@misc{NETSCOUT2025,
+  author = {{NETSCOUT}},
+  title  = {Latin America Regional DDoS Cyber Threat Intelligence Report},
+  year   = {2025},
+  url    = {https://www.netscout.com/threatreport/latam/},
+  note   = {Acesso em: 1 maio 2026}
+}
+
+@misc{Apposite2025,
+  author = {{Apposite Technologies}},
+  title  = {DDoS Tester},
+  year   = {2025},
+  url    = {https://apposite-tech.com/ddos-tester/},
+  note   = {Acesso em: 20 maio 2026}
+}
+
+% Documentação técnica online
+@misc{ReactDocs2025,
+  author = {{Meta}},
+  title  = {React -- A JavaScript library for building user interfaces},
+  year   = {2025},
+  url    = {https://react.dev},
+  note   = {Acesso em: 20 jan. 2025}
+}
+
+% Artigo em blog técnico
+@misc{Fowler2014,
+  author = {Martin Fowler},
+  title  = {Microservices: a definition of this new architectural term},
+  year   = {2014},
+  url    = {https://martinfowler.com/articles/microservices.html},
+  note   = {Acesso em: 10 fev. 2025}
+}
+
+@misc{Echeta2024,
+  author = {Israel Echeta},
+  title  = {Development of an Intrusion Detection System Using Multilayer Perceptron},
+  year   = {2024},
+  note   = {EasyChair Preprint, November 27, 2024},
+  url    = {https://my.easychair.org/publications/preprint/HzQKH}
+}
+
+
+% ---------------------------------------------------------------
+% EXEMPLOS DE MANUAIS E DOCUMENTACAO TECNICA
+% Formato ABNT: ORGANIZACAO. Titulo. Local, Ano.
+% ---------------------------------------------------------------
+
+@manual{ABNT2018,
+  organization = {{Associação Brasileira de Normas Técnicas}},
+  title        = {{NBR} 6023: informação e documentação --- referências --- elaboração},
+  year         = {2018},
+  address      = {Rio de Janeiro}
+}
+
+@manual{ISO25010,
+  organization = {{International Organization for Standardization}},
+  title        = {{ISO/IEC} 25010:2011 --- Systems and software engineering --- Systems and software Quality Requirements and Evaluation ({SQuaRE}) --- System and software quality models},
+  year         = {2011},
+  address      = {Geneva}
+}
+
+
+% ===============================================================
+% DICAS PARA O ALUNO:
+% ===============================================================
+% 1. Use chaves consistentes (ex: Sobrenome+Ano: Wazlawick2020)
+% 2. Preencha todos os campos obrigatórios para cada tipo
+% 3. Para sites, sempre inclua a data de acesso no campo "note"
+% 4. Use {} ao redor de siglas e nomes próprios para preservar
+%    a capitalização (ex: {IBGE}, {XGBoost})
+% 5. Para autores corporativos, use chaves duplas: {{Nome}}
+% 6. Compile com: pdflatex -> bibtex -> pdflatex -> pdflatex
+% ===============================================================
