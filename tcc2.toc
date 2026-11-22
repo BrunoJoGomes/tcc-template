@@ -1,0 +1,135 @@
+\changetocdepth {4}
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase []{Introdução}}{14}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introdução}{14}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Contextualização do problema}{15}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Contexto}{15}{subsection.1.2.1}%
+\contentsline {section}{\numberline {1.3}Formulação do problema}{16}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Objetivos e hipótese}{16}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Objetivo geral}{16}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Objetivos específicos}{17}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Hipótese ou critério de validação}{17}{subsection.1.4.3}%
+\contentsline {section}{\numberline {1.5}Justificativa}{17}{section.1.5}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase []{Revisão Bibliográfica / Trabalhos Relacionados}}{19}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Metodologia da pesquisa bibliográfica}{19}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Fundamentos teóricos}{21}{section.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.0.1}Redes de computadores}{21}{subsubsection.2.2.0.1}%
+\contentsline {subsubsection}{\numberline {2.2.0.2}Modelo TCP/IP}{21}{subsubsection.2.2.0.2}%
+\contentsline {paragraph}{\numberline {2.2.0.2.1}IP -- Internet Protocol}{22}{paragraph.2.2.0.2.1}%
+\contentsline {paragraph}{\numberline {2.2.0.2.2}TCP -- Transmission Control Protocol}{22}{paragraph.2.2.0.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.0.3}Cibersegurança}{23}{subsubsection.2.2.0.3}%
+\contentsline {paragraph}{\numberline {2.2.0.3.1}Segurança de redes}{23}{paragraph.2.2.0.3.1}%
+\contentsline {subsubsection}{\numberline {2.2.0.4}Sistemas de detecção de intrusão (IDS)}{24}{subsubsection.2.2.0.4}%
+\contentsline {subsubsection}{\numberline {2.2.0.5}Ataques de negação de serviço (DoS e DDoS)}{24}{subsubsection.2.2.0.5}%
+\contentsline {paragraph}{\numberline {2.2.0.5.1}DoS -- Denial of Service}{24}{paragraph.2.2.0.5.1}%
+\contentsline {paragraph}{\numberline {2.2.0.5.2}DDoS -- Distributed Denial of Service}{25}{paragraph.2.2.0.5.2}%
+\contentsline {subsubsection}{\numberline {2.2.0.6}CICDDoS2019}{26}{subsubsection.2.2.0.6}%
+\contentsline {paragraph}{\numberline {2.2.0.6.1}Desbalanceamento de classes e \textit {undersampling}}{28}{paragraph.2.2.0.6.1}%
+\contentsline {subsection}{\numberline {2.2.1}IA (Inteligência Artificial)}{28}{subsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.1}\textit {Machine Learning}}{29}{subsubsection.2.2.1.1}%
+\contentsline {paragraph}{\numberline {2.2.1.1.1}Algoritmos de Aprendizado de Máquina}{29}{paragraph.2.2.1.1.1}%
+\contentsline {paragraph}{\numberline {2.2.1.1.2}\textit {Machine Learning} aplicado à detecção de intrusão}{30}{paragraph.2.2.1.1.2}%
+\contentsline {subsubsection}{\numberline {2.2.1.2}Aprendizado supervisionado}{31}{subsubsection.2.2.1.2}%
+\contentsline {paragraph}{\numberline {2.2.1.2.1}Classificação binária}{31}{paragraph.2.2.1.2.1}%
+\contentsline {paragraph}{\numberline {2.2.1.2.2}Classificação multiclasse}{32}{paragraph.2.2.1.2.2}%
+\contentsline {subsection}{\numberline {2.2.2}Random Forest}{32}{subsection.2.2.2}%
+\contentsline {paragraph}{\numberline {2.2.2.0.1}Decision Trees}{32}{paragraph.2.2.2.0.1}%
+\contentsline {paragraph}{\numberline {2.2.2.0.2}Random Forest}{33}{paragraph.2.2.2.0.2}%
+\contentsline {paragraph}{\numberline {2.2.2.0.3}Hiperparâmetros}{34}{paragraph.2.2.2.0.3}%
+\contentsline {subsection}{\numberline {2.2.3}Support Vector Machine (SVM)}{35}{subsection.2.2.3}%
+\contentsline {paragraph}{\numberline {2.2.3.0.1}Hiperparâmetros}{36}{paragraph.2.2.3.0.1}%
+\contentsline {subsection}{\numberline {2.2.4}Inteligência Artificial Explicável (XAI)}{36}{subsection.2.2.4}%
+\contentsline {paragraph}{\numberline {2.2.4.0.1}SHAP}{37}{paragraph.2.2.4.0.1}%
+\contentsline {subsection}{\numberline {2.2.5}Métricas de Avaliação de Modelos}{37}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}Acurácia}{37}{subsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.2.7}Recall}{38}{subsection.2.2.7}%
+\contentsline {subsection}{\numberline {2.2.8}Precisão}{38}{subsection.2.2.8}%
+\contentsline {subsection}{\numberline {2.2.9}F1-Score}{39}{subsection.2.2.9}%
+\contentsline {subsection}{\numberline {2.2.10}Coeficiente de correlação de Matthews (MCC)}{39}{subsection.2.2.10}%
+\contentsline {section}{\numberline {2.3}Trabalhos correlatos}{40}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Trabalho 1: An Analysis of Intrusion Detection Classification using Supervised Machine Learning Algorithms on NSL-KDD Dataset}{40}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Trabalho 2: Detecting DDoS Threats Using Supervised Machine Learning for Traffic Classification in Software Defined Networking}{40}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Trabalho 3: Distributed Denial-of-Service (DDoS) Attack Detection Using Supervised Machine Learning Algorithms}{41}{subsection.2.3.3}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase []{Desenvolvimento / Implementação / Experimentos}}{43}{chapter.3}%
+\contentsline {subsection}{\numberline {3.0.1}Metodologia da pesquisa}{43}{subsection.3.0.1}%
+\contentsline {section}{\numberline {3.1}Detalhes da implementação}{47}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Ingestão dos dados no ClickHouse}{47}{subsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.1.1}Análise exploratória dos dados}{49}{subsubsection.3.1.1.1}%
+\contentsline {paragraph}{\numberline {3.1.1.1.1}Estratégia computacional.}{50}{paragraph.3.1.1.1.1}%
+\contentsline {paragraph}{\numberline {3.1.1.1.2}Dimensão, atributos e distribuição das classes.}{50}{paragraph.3.1.1.1.2}%
+\contentsline {paragraph}{\numberline {3.1.1.1.3}Qualidade e variabilidade dos dados.}{51}{paragraph.3.1.1.1.3}%
+\contentsline {paragraph}{\numberline {3.1.1.1.4}Duplicatas e valores atípicos.}{51}{paragraph.3.1.1.1.4}%
+\contentsline {paragraph}{\numberline {3.1.1.1.5}Correlação.}{52}{paragraph.3.1.1.1.5}%
+\contentsline {paragraph}{\numberline {3.1.1.1.6}Relação atributo $\times $ classe.}{52}{paragraph.3.1.1.1.6}%
+\contentsline {paragraph}{\numberline {3.1.1.1.7}Síntese.}{52}{paragraph.3.1.1.1.7}%
+\contentsline {subsubsection}{\numberline {3.1.1.2}Pré-processamento}{52}{subsubsection.3.1.1.2}%
+\contentsline {paragraph}{\numberline {3.1.1.2.1}Tipos e identificadores.}{53}{paragraph.3.1.1.2.1}%
+\contentsline {paragraph}{\numberline {3.1.1.2.2}Valores ausentes, infinitos e texto.}{53}{paragraph.3.1.1.2.2}%
+\contentsline {paragraph}{\numberline {3.1.1.2.3}Atributos constantes e redundantes.}{54}{paragraph.3.1.1.2.3}%
+\contentsline {paragraph}{\numberline {3.1.1.2.4}Rótulos.}{54}{paragraph.3.1.1.2.4}%
+\contentsline {paragraph}{\numberline {3.1.1.2.5}Deduplicação do treino.}{54}{paragraph.3.1.1.2.5}%
+\contentsline {paragraph}{\numberline {3.1.1.2.6}Conflitos de rótulo.}{55}{paragraph.3.1.1.2.6}%
+\contentsline {paragraph}{\numberline {3.1.1.2.7}Sobreposição entre treino e teste.}{56}{paragraph.3.1.1.2.7}%
+\contentsline {paragraph}{\numberline {3.1.1.2.8}Desbalanceamento, valores atípicos e negativos.}{56}{paragraph.3.1.1.2.8}%
+\contentsline {paragraph}{\numberline {3.1.1.2.9}Redundância por correlação e capacidade discriminativa.}{57}{paragraph.3.1.1.2.9}%
+\contentsline {paragraph}{\numberline {3.1.1.2.10}Escala e imputação.}{57}{paragraph.3.1.1.2.10}%
+\contentsline {paragraph}{\numberline {3.1.1.2.11}Bases finais e validação.}{58}{paragraph.3.1.1.2.11}%
+\contentsline {subsubsection}{\numberline {3.1.1.3}Visões de entrada dos modelos binários}{58}{subsubsection.3.1.1.3}%
+\contentsline {paragraph}{\numberline {3.1.1.3.1}Atributos de entrada.}{58}{paragraph.3.1.1.3.1}%
+\contentsline {paragraph}{\numberline {3.1.1.3.2}Valores ausentes.}{58}{paragraph.3.1.1.3.2}%
+\contentsline {paragraph}{\numberline {3.1.1.3.3}Padronização dos atributos (SVM).}{59}{paragraph.3.1.1.3.3}%
+\contentsline {paragraph}{\numberline {3.1.1.3.4}Teste sem sobreposição.}{59}{paragraph.3.1.1.3.4}%
+\contentsline {paragraph}{\numberline {3.1.1.3.5}Validação.}{60}{paragraph.3.1.1.3.5}%
+\contentsline {paragraph}{\numberline {3.1.1.3.6}Apêndice A -- Colunas de entrada dos modelos binários (43).}{60}{paragraph.3.1.1.3.6}%
+\contentsline {subsection}{\numberline {3.1.2}Balanceamento do treino binário}{60}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Treino do Random Forest binário}{64}{subsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.3.1}Avaliação do Random Forest binário no teste}{70}{subsubsection.3.1.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.3.2}Busca de hiperparâmetros}{72}{subsubsection.3.1.3.2}%
+\contentsline {subsubsection}{\numberline {3.1.3.3}Avaliação da configuração ajustada no teste}{75}{subsubsection.3.1.3.3}%
+\contentsline {subsubsection}{\numberline {3.1.3.4}Estudo da variação entre sementes}{78}{subsubsection.3.1.3.4}%
+\contentsline {subsection}{\numberline {3.1.4}Treino do SVM binário}{79}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}Busca de hiperparâmetros do SVM binário}{83}{subsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.1.6}Avaliação do SVM binário no teste}{88}{subsection.3.1.6}%
+\contentsline {subsection}{\numberline {3.1.7}Comparação entre Random Forest e SVM binários}{91}{subsection.3.1.7}%
+\contentsline {subsubsection}{\numberline {3.1.7.1}Visões de entrada dos modelos multiclasse}{92}{subsubsection.3.1.7.1}%
+\contentsline {paragraph}{\numberline {3.1.7.1.1}Classes e códigos.}{92}{paragraph.3.1.7.1.1}%
+\contentsline {paragraph}{\numberline {3.1.7.1.2}Atributos de entrada.}{93}{paragraph.3.1.7.1.2}%
+\contentsline {paragraph}{\numberline {3.1.7.1.3}Valores ausentes.}{93}{paragraph.3.1.7.1.3}%
+\contentsline {paragraph}{\numberline {3.1.7.1.4}Padronização dos atributos (SVM).}{93}{paragraph.3.1.7.1.4}%
+\contentsline {paragraph}{\numberline {3.1.7.1.5}Teste sem sobreposição.}{94}{paragraph.3.1.7.1.5}%
+\contentsline {paragraph}{\numberline {3.1.7.1.6}Validação.}{94}{paragraph.3.1.7.1.6}%
+\contentsline {paragraph}{\numberline {3.1.7.1.7}Apêndice A -- Colunas de entrada dos modelos multiclasse (44).}{95}{paragraph.3.1.7.1.7}%
+\contentsline {subsection}{\numberline {3.1.8}Balanceamento do treino multiclasse}{95}{subsection.3.1.8}%
+\contentsline {subsection}{\numberline {3.1.9}Treino do Random Forest multiclasse}{98}{subsection.3.1.9}%
+\contentsline {subsubsection}{\numberline {3.1.9.1}Avaliação do Random Forest multiclasse padrão no teste}{102}{subsubsection.3.1.9.1}%
+\contentsline {subsubsection}{\numberline {3.1.9.2}Busca de hiperparâmetros do Random Forest multiclasse}{104}{subsubsection.3.1.9.2}%
+\contentsline {subsubsection}{\numberline {3.1.9.3}Avaliação da configuração ajustada do RF multiclasse no teste}{107}{subsubsection.3.1.9.3}%
+\contentsline {subsubsection}{\numberline {3.1.9.4}Estudo da variação entre sementes do RF multiclasse}{109}{subsubsection.3.1.9.4}%
+\contentsline {subsection}{\numberline {3.1.10}Treino do SVM multiclasse}{111}{subsection.3.1.10}%
+\contentsline {subsection}{\numberline {3.1.11}Busca de hiperparâmetros do SVM multiclasse}{114}{subsection.3.1.11}%
+\contentsline {subsection}{\numberline {3.1.12}Avaliação do SVM multiclasse no teste}{120}{subsection.3.1.12}%
+\contentsline {subsection}{\numberline {3.1.13}Análise dos conflitos de rótulo entre as sete classes}{123}{subsection.3.1.13}%
+\contentsline {subsection}{\numberline {3.1.14}Comparação entre Random Forest e SVM multiclasse}{125}{subsection.3.1.14}%
+\contentsline {subsection}{\numberline {3.1.15}Experimentos e cenário de testes}{129}{subsection.3.1.15}%
+\contentsline {subsection}{\numberline {3.1.16}Resultados e análises}{131}{subsection.3.1.16}%
+\contentsline {subsubsection}{\numberline {3.1.16.1}Explicabilidade com SHAP}{131}{subsubsection.3.1.16.1}%
+\contentsline {subsubsection}{\numberline {3.1.16.2}Demonstração com a simulação}{134}{subsubsection.3.1.16.2}%
+\contentsline {subsubsection}{\numberline {3.1.16.3}Análise crítica e discussão}{134}{subsubsection.3.1.16.3}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase []{Conclusão}}{138}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Retomada do problema e dos objetivos}{138}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Contribuições para a Computação}{138}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Limitações e trabalhos futuros}{138}{section.4.3}%
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{Observações importantes}{139}{chapter*.10}%
+\vspace {\cftbeforechapterskip }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\MakeTextUppercase []{Refer\^encias}}{140}{section*.14}%

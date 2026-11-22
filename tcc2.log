@@ -1,0 +1,3041 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.10)  22 NOV 2026 04:39
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./tcc2.tex
+(tcc2.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2.cls
+Document Class: abntex2 2018/11/24 v-1.9.7 abnTeX2
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memoir.cls
+Document Class: memoir 2025/11/04 v3.8.4b configurable book, report, article do
+cument class
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2026-01-19 L3 programming layer (loader) 
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count275
+))
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count276
+))
+\onelineskip=\skip49
+\lxvchars=\skip50
+\xlvchars=\skip51
+\@memcnta=\count277
+\c@@memmarkcntra=\count278
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+\trimtop=\skip52
+\trimedge=\skip53
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/memoir\mem12.clo
+File: mem12.clo 2022/07/29 v0.5 memoir class 12pt size option
+)
+\binding=\skip54
+\spinemargin=\skip55
+\foremargin=\skip56
+\uppermargin=\skip57
+\lowermargin=\skip58
+\headdrop=\skip59
+\normalrulethickness=\skip60
+\mem@maxheadheight=\skip61
+\mem@maxfootheight=\skip62
+\headwidth=\skip63
+\c@storedpagenumber=\count279
+\memPD=\dimen148
+\m@mabparskip=\skip64
+\thanksmarkwidth=\skip65
+\thanksmarksep=\skip66
+\droptitle=\skip67
+\c@book=\count280
+\c@part=\count281
+\c@chapter=\count282
+\c@section=\count283
+\c@subsection=\count284
+\c@subsubsection=\count285
+\c@paragraph=\count286
+\c@subparagraph=\count287
+\beforechapskip=\skip68
+\midchapskip=\skip69
+\afterchapskip=\skip70
+\chapindent=\skip71
+\bottomsectionskip=\skip72
+\secindent=\skip73
+\beforesecskip=\skip74
+\aftersecskip=\skip75
+\subsecindent=\skip76
+\beforesubsecskip=\skip77
+\aftersubsecskip=\skip78
+\subsubsecindent=\skip79
+\beforesubsubsecskip=\skip80
+\aftersubsubsecskip=\skip81
+\paraindent=\skip82
+\beforeparaskip=\skip83
+\afterparaskip=\skip84
+\subparaindent=\skip85
+\beforesubparaskip=\skip86
+\aftersubparaskip=\skip87
+\pfbreakskip=\skip88
+\c@@ppsavesec=\count288
+\c@@ppsaveapp=\count289
+\ragrparindent=\dimen149
+\everylistparindent=\dimen150
+\parsepi=\skip89
+\topsepi=\skip90
+\itemsepi=\skip91
+\parsepii=\skip92
+\topsepii=\skip93
+\topsepiii=\skip94
+\itemsepii=\skip95
+\itemsepiii=\skip96
+\partopsepii=\skip97
+\partopsepiii=\skip98
+\m@msavetopsep=\skip99
+\m@msavepartopsep=\skip100
+\@enLab=\toks17
+\abstitleskip=\skip101
+\absleftindent=\skip102
+\abs@leftindent=\dimen151
+\absrightindent=\skip103
+\absparindent=\skip104
+\absparsep=\skip105
+\c@vslineno=\count290
+\c@poemline=\count291
+\c@modulo@vs=\count292
+\c@memfvsline=\count293
+\vleftskip=\skip106
+\vrightskip=\skip107
+\stanzaskip=\skip108
+\versewidth=\skip109
+\vgap=\skip110
+\vindent=\skip111
+\vleftmargin=\dimen152
+\c@verse=\count294
+\c@chrsinstr=\count295
+\beforepoemtitleskip=\skip112
+\afterpoemtitleskip=\skip113
+\c@poem=\count296
+\beforePoemTitleskip=\skip114
+\midPoemTitleskip=\skip115
+\afterPoemTitleskip=\skip116
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen153
+\ar@mcellbox=\box53
+\extrarowheight=\dimen154
+\NC@list=\toks18
+\extratabsurround=\skip117
+\backup@length=\skip118
+\ar@cellbox=\box54
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/tools\dcolumn.sty
+Package: dcolumn 2025/10/21 v1.06 decimal alignment package (DPC)
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/tools\delarray.sty
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen155
+\TX@old@table=\dimen156
+\TX@old@col=\dimen157
+\TX@target=\dimen158
+\TX@delta=\dimen159
+\TX@cols=\count297
+\TX@ftn=\toks19
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen160
+\lightrulewidth=\dimen161
+\cmidrulewidth=\dimen162
+\belowrulesep=\dimen163
+\belowbottomsep=\dimen164
+\aboverulesep=\dimen165
+\abovetopsep=\dimen166
+\cmidrulesep=\dimen167
+\cmidrulekern=\dimen168
+\defaultaddspace=\dimen169
+\@cmidla=\count298
+\@cmidlb=\count299
+\@aboverulesep=\dimen170
+\@belowrulesep=\dimen171
+\@thisruleclass=\count300
+\@lastruleclass=\count301
+\@thisrulewidth=\dimen172
+)
+\ctableftskip=\skip119
+\ctabrightskip=\skip120
+\abovecolumnspenalty=\count302
+\@linestogo=\count303
+\@cellstogo=\count304
+\@cellsincolumn=\count305
+\crtok=\toks20
+\@mincolumnwidth=\dimen173
+\c@newflo@tctr=\count306
+\mem@margin@floatbox=\box55
+\@contcwidth=\skip121
+\@contindw=\skip122
+\abovecaptionskip=\skip123
+\belowcaptionskip=\skip124
+\subfloattopskip=\skip125
+\subfloatcapskip=\skip126
+\subfloatcaptopadj=\skip127
+\subfloatbottomskip=\skip128
+\subfloatlabelskip=\skip129
+\subfloatcapmargin=\dimen174
+\c@@contsubnum=\count307
+\m@mscap@capbox=\box56
+\m@mscap@fbox=\box57
+\sidecapsep=\dimen175
+\sidecapwidth=\dimen176
+\m@m@tempdima=\dimen177
+\m@mscapraise=\dimen178
+\sidecapraise=\dimen179
+\m@mscapmainwidth=\dimen180
+\m@mscaplkern=\dimen181
+\beforeepigraphskip=\skip130
+\afterepigraphskip=\skip131
+\epigraphwidth=\skip132
+\epigraphrule=\skip133
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+))
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)))
+\c@section@level=\count308
+)
+\tocentryskip=\skip134
+\tocbaseline=\skip135
+\cftparskip=\skip136
+\cftbeforebookskip=\skip137
+\cftbookindent=\dimen182
+\cftbooknumwidth=\dimen183
+\cftbeforepartskip=\skip138
+\cftpartindent=\skip139
+\cftpartnumwidth=\skip140
+\cftbeforechapterskip=\skip141
+\cftchapterindent=\skip142
+\cftchapternumwidth=\skip143
+\cftbeforesectionskip=\skip144
+\cftsectionindent=\skip145
+\cftsectionnumwidth=\skip146
+\cftbeforesubsectionskip=\skip147
+\cftsubsectionindent=\skip148
+\cftsubsectionnumwidth=\skip149
+\cftbeforesubsubsectionskip=\skip150
+\cftsubsubsectionindent=\skip151
+\cftsubsubsectionnumwidth=\skip152
+\cftbeforeparagraphskip=\skip153
+\cftparagraphindent=\skip154
+\cftparagraphnumwidth=\skip155
+\cftbeforesubparagraphskip=\skip156
+\cftsubparagraphindent=\skip157
+\cftsubparagraphnumwidth=\skip158
+\prechapterprecisshift=\dimen184
+\c@maxsecnumdepth=\count309
+\bibindent=\dimen185
+\bibitemsep=\skip159
+\indexcolsep=\skip160
+\indexrule=\skip161
+\indexmarkstyle=\toks22
+\@indexbox=\insert252
+LaTeX Info: Redefining \raggedbottom on input line 8095.
+LaTeX Info: Redefining \flushbottom on input line 8099.
+\glossarycolsep=\dimen186
+\glossaryrule=\dimen187
+\sideparvshift=\skip162
+\sideins=\insert251
+\sidebartopsep=\skip163
+\sidebarhsep=\skip164
+\sidebarvsep=\skip165
+\sidebarwidth=\skip166
+\footmarkwidth=\skip167
+\footmarksep=\skip168
+\footparindent=\skip169
+\footinsdim=\skip170
+\footinsv@r=\insert250
+\@mpfootinsv@r=\insert249
+\m@m@k=\count310
+\m@m@h=\dimen188
+\m@mipn@skip=\skip171
+\sidefootins=\insert248
+\sidefootadjust=\skip172
+\sidefootheight=\skip173
+\sidefoothsep=\skip174
+\sidefootvsep=\skip175
+\sidefootwidth=\skip176
+\m@mdownsf=\skip177
+\c@sidefootnote=\count311
+\sidefootmarkwidth=\skip178
+\sidefootmarksep=\skip179
+\sidefootparindent=\skip180
+\c@pagenote=\count312
+\c@pagenoteshadow=\count313
+\mem@pn@lastkern=\skip181
+ (C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks23
+\verbatim@line=\toks24
+\verbatim@in@stream=\read2
+)
+\verbatimindent=\skip182
+\verbatim@out=\write3
+ (C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/base\shortvrb.sty
+Package: shortvrb 2024/12/25 v3.0q Standard LaTeX documentation package V3 (FMi
+)
+)
+\bvboxsep=\skip183
+\c@memfbvline=\count314
+\c@bvlinectr=\count315
+\bvnumlength=\skip184
+\fb@frw=\dimen189
+\fb@frh=\dimen190
+\FrameRule=\dimen191
+\FrameSep=\dimen192
+\c@cp@cntr=\count316
+\c@ism@mctr=\count317
+\c@xsm@mctr=\count318
+\c@csm@mctr=\count319
+\c@ksm@mctr=\count320
+\c@xksm@mctr=\count321
+\c@cksm@mctr=\count322
+\c@msm@mctr=\count323
+\c@xmsm@mctr=\count324
+\c@cmsm@mctr=\count325
+\c@bsm@mctr=\count326
+\c@workm@mctr=\count327
+\c@sheetsequence=\count328
+\c@lastsheet=\count329
+\c@lastpage=\count330
+\c@figure=\count331
+\c@lofdepth=\count332
+\cftbeforefigureskip=\skip185
+\cftfigureindent=\skip186
+\cftfigurenumwidth=\skip187
+\c@table=\count333
+\c@lotdepth=\count334
+\cftbeforetableskip=\skip188
+\cfttableindent=\skip189
+\cfttablenumwidth=\skip190
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/textcase\textcase.sty
+Package: textcase 2025/02/16 v1.05 Text only upper/lower case changing (DPC)
+Package textcase Info: Defining Legacy names on input line 20.
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen193
+\Hy@linkcounter=\count335
+\Hy@pagecounter=\count336
+ (C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count337
+ (C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4201.
+Package hyperref Info: Link nesting OFF on input line 4206.
+Package hyperref Info: Hyper index ON on input line 4209.
+Package hyperref Info: Plain pages OFF on input line 4216.
+Package hyperref Info: Backreferencing OFF on input line 4221.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4468.
+\c@Hy@tempcnt=\count338
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4807.
+\XeTeXLinkMargin=\dimen194
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count339
+\Field@Width=\dimen195
+\Fld@charsize=\dimen196
+Package hyperref Info: Hyper figures OFF on input line 6084.
+Package hyperref Info: Link nesting OFF on input line 6089.
+Package hyperref Info: Hyper index ON on input line 6092.
+Package hyperref Info: backreferencing OFF on input line 6099.
+Package hyperref Info: Link coloring OFF on input line 6104.
+Package hyperref Info: Link coloring with OCG OFF on input line 6109.
+Package hyperref Info: PDF/A mode OFF on input line 6114.
+\Hy@abspage=\count340
+\c@Item=\count341
+\c@Hfootnote=\count342
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2026-01-29 v7.01p Hyperref driver for pdfTeX
+\Fld@listcount=\count343
+\c@bookmark@seq@number=\count344
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip191
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memhfixc.sty
+Package: memhfixc 2025/09/16 v1.24 hyperref package fixes for memoir class
+\c@memhycontfloat=\count345
+\c@mem@Hpagenote=\count346
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
+)
+\BKM@id=\count347
+)) (C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2026/03/24 v26.5 The multilingual framework for LuaLaTeX, pdfLaT
+eX and XeLaTeX
+\babel@savecnt=\count348
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
+ne 2078.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
+ne 2080.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
+e 2082.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
+e 2083.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
+on input line 2084.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
+on input line 2086.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
+on input line 2111.
+\U@D=\dimen197
+\l@unhyphenated=\language79
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read3
+\bbl@dirlevel=\count349
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4206.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
+-english.tex)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/invalid\
+babel-brazil.tex)
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 4330.
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+)
+
+Package babel Warning: Name 'brazil' is deprecated.
+(babel)                Use 'brazilian' instead.
+(babel)                Reported on input line 4330.
+
+Package babel Info: Importing font and identification data for brazil
+(babel)             from babel-pt-BR.ini. Reported on input line 4330.
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazilia
+n.ldf
+Language: portuges 2026/01/24 v1.2u Portuguese support from the babel system
+Package babel Info: Hyphen rules for 'brazil' set to \l@portuguese
+(babel)             (\language56). Reported on input line 100.
+Package babel Info: Making " an active character on input line 132.
+))
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip192
+\enit@outerparindent=\dimen198
+\enit@toks=\toks25
+\enit@inbox=\box58
+\enit@count@id=\count350
+\enitdp@description=\count351
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count352
+\calc@Bcount=\count353
+\calc@Adimen=\dimen199
+\calc@Bdimen=\dimen256
+\calc@Askip=\skip193
+\calc@Bskip=\skip194
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count354
+\calc@Cskip=\skip195
+)
+
+******************************************************
+Stock height and width: 845.04684pt by 597.50787pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 845.04684pt by 597.50787pt
+Text height and width: 708pt by 455pt
+Spine and edge margins: 85.35826pt and 56.9055pt
+Upper and lower margins: 85.35826pt and 51.68858pt
+Headheight and headsep: 14.5pt and 19.8738pt
+Footskip: 30pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 42.9055pt
+Sidecapsep and sidecapwidth: 7pt and 42pt
+Sidebarhsep and sidebarwidth: 7pt and 42pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 590.14995pt
+Sidefoothsep and sidefootwidth: 7pt and 42pt
+Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
+******************************************************
+
+\c@abntex@bookmarkcounter=\count355
+\cftlastnumwidth=\skip196
+
+Class memoir Warning: \settocpreprocessor is marked deprecated and will be
+(memoir)              removed in 2026, the problem it tried to solve 
+(memoir)              (see manual, section 9.2.3),
+(memoir)              has been fixed in the kernel, and the feature is
+(memoir)              no longer needed. on input line 483.
+
+\chapternamenumlength=\skip197
+\ABNTEXcitacaorecuo=\skip198
+\c@alineasi=\count356
+\c@alineasii=\count357
+\enitdp@alineas=\count358
+\c@subalineasi=\count359
+\enitdp@subalineas=\count360
+\c@incisosi=\count361
+\enitdp@incisos=\count362
+\ABNTEXsignwidth=\skip199
+\ABNTEXsignthickness=\skip256
+\ABNTEXsignskip=\skip257
+) (C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+6.
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+))
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks26
+\inpenc@posthook=\toks27
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+Package: lastpage 2025/08/14 v2.1h lastpage: 2.09 or 2e? (HMM)
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+Package: lastpage2e 2025/08/14 v2.1h Decide which 2e lastpage version to use (H
+MM)
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern
+.sty
+Package: lastpagemodern 2025-08-14 v2.1h Refers to last page's name (HMM; JPG)
+\c@lastpagecount=\count363
+) 
+))
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2025/01/14 v1.3e Standard LaTeX Color (DPC)
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+) (C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\Gin@req@height=\dimen257
+\Gin@req@width=\dimen258
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2026/03/01 v3.2d Micro-typographical refinements (RS)
+\MT@toks=\toks28
+\MT@tempbox=\box59
+\MT@count=\count364
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1084.
+LaTeX Info: Redefining \leftprotrusion on input line 1085.
+\MT@prot@toks=\toks29
+LaTeX Info: Redefining \rightprotrusion on input line 1104.
+LaTeX Info: Redefining \textls on input line 1449.
+\MT@outer@kern=\dimen259
+LaTeX Info: Redefining \microtypecontext on input line 2053.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
+\MT@listname@count=\count365
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def
+File: microtype-pdftex.def 2026/03/01 v3.2d Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 944.
+LaTeX Info: Redefining \lslig on input line 944.
+\MT@outer@space=\skip258
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2026/03/01 v3.2d microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3065.
+) (C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count366
+\float@exts=\toks30
+\float@box=\box60
+\@float@everytoks=\toks31
+\@floatcapt=\box61
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip259
+\multirow@cntb=\count367
+\multirow@dima=\skip260
+\bigstrutjot=\dimen260
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+\LTleft=\skip261
+\LTright=\skip262
+\LTpre=\skip263
+\LTpost=\skip264
+\LTchunksize=\count368
+\LTcapwidth=\dimen261
+\LT@head=\box62
+\LT@firsthead=\box63
+\LT@foot=\box64
+\LT@lastfoot=\box65
+\LT@gbox=\box66
+\LT@cols=\count369
+\LT@rows=\count370
+\c@LT@tables=\count371
+\c@LT@chunks=\count372
+\LT@p@ftn=\toks32
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip265
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks33
+\ex@=\dimen262
+))
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen263
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count373
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count374
+\leftroot@=\count375
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count376
+\DOTSCASE@=\count377
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box67
+\strutbox@=\box68
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen264
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count378
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count379
+\dotsspace@=\muskip18
+\c@parentequation=\count380
+\dspbrk@lvl=\count381
+\tag@help=\toks34
+\row@=\count382
+\column@=\count383
+\maxfields@=\count384
+\andhelp@=\toks35
+\eqnshift@=\dimen265
+\alignsep@=\dimen266
+\tagshift@=\dimen267
+\tagwidth@=\dimen268
+\totwidth@=\dimen269
+\lineht@=\dimen270
+\@envbody=\toks36
+\multlinegap=\skip266
+\multlinetaggap=\skip267
+\mathdisplay@stack=\toks37
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/pgfgantt\pgfgantt.st
+y
+Package: pgfgantt 2024/06/19 v5.0a Draw Gantt diagrams with TikZ
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks38
+\pgfutil@tempdima=\dimen271
+\pgfutil@tempdimb=\dimen272
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box69
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks39
+\pgfkeys@temptoks=\toks40
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks41
+))
+\pgf@x=\dimen273
+\pgf@y=\dimen274
+\pgf@xa=\dimen275
+\pgf@ya=\dimen276
+\pgf@xb=\dimen277
+\pgf@yb=\dimen278
+\pgf@xc=\dimen279
+\pgf@yc=\dimen280
+\pgf@xd=\dimen281
+\pgf@yd=\dimen282
+\w@pgf@writea=\write4
+\r@pgf@reada=\read4
+\c@pgf@counta=\count385
+\c@pgf@countb=\count386
+\c@pgf@countc=\count387
+\c@pgf@countd=\count388
+\t@pgf@toka=\toks42
+\t@pgf@tokb=\toks43
+\t@pgf@tokc=\toks44
+\pgf@sys@id@count=\count389
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count390
+\pgfsyssoftpath@bigbuffer@items=\count391
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+LaTeX Info: Redefining \color on input line 762.
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen283
+\pgfmath@count=\count392
+\pgfmath@box=\box70
+\pgfmath@toks=\toks45
+\pgfmath@stack@operand=\toks46
+\pgfmath@stack@operation=\toks47
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count393
+))
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen284
+\pgf@picmaxx=\dimen285
+\pgf@picminy=\dimen286
+\pgf@picmaxy=\dimen287
+\pgf@pathminx=\dimen288
+\pgf@pathmaxx=\dimen289
+\pgf@pathminy=\dimen290
+\pgf@pathmaxy=\dimen291
+\pgf@xx=\dimen292
+\pgf@xy=\dimen293
+\pgf@yx=\dimen294
+\pgf@yy=\dimen295
+\pgf@zx=\dimen296
+\pgf@zy=\dimen297
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen298
+\pgf@path@lasty=\dimen299
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen300
+\pgf@shorten@start@additional=\dimen301
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box71
+\pgf@hbox=\box72
+\pgf@layerbox@main=\box73
+\pgf@picture@serial@count=\count394
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen302
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen303
+\pgf@pt@y=\dimen304
+\pgf@pt@temp=\dimen305
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen306
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen307
+\pgf@sys@shading@range@num=\count395
+\pgf@shadingcount=\count396
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box74
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box75
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen308
+\pgf@nodesepend=\dimen309
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen310
+\pgffor@skip=\dimen311
+\pgffor@stack=\toks48
+\pgffor@toks=\toks49
+))
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count397
+\pgfplotmarksize=\dimen312
+)
+\tikz@lastx=\dimen313
+\tikz@lasty=\dimen314
+\tikz@lastxsaved=\dimen315
+\tikz@lastysaved=\dimen316
+\tikz@lastmovetox=\dimen317
+\tikz@lastmovetoy=\dimen318
+\tikzleveldistance=\dimen319
+\tikzsiblingdistance=\dimen320
+\tikz@figbox=\box76
+\tikz@figbox@bg=\box77
+\tikz@tempbox=\box78
+\tikz@tempbox@bg=\box79
+\tikztreelevel=\count398
+\tikznumberofchildren=\count399
+\tikznumberofcurrentchild=\count400
+\tikz@fig@count=\count401
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count402
+\pgfmatrixcurrentcolumn=\count403
+\pgf@matrix@numberofcolumns=\count404
+)
+\tikz@expandcount=\count405
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.code.tex
+File: pgflibraryarrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\arrowsize=\dimen321
+))
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@layerbox@background=\box80
+\pgf@layerboxsaved@background=\box81
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarypatterns.code.tex
+File: tikzlibrarypatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+arypatterns.code.tex
+File: pgflibrarypatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfcalend
+ar.sty
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfcale
+ndar.code.tex
+File: pgfcalendar.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfcalendarcurrentjulian=\count406
+\pgf@cal@easter@Y=\count407
+\pgf@cal@easter@G=\count408
+\pgf@cal@easter@C=\count409
+\pgf@cal@easter@X=\count410
+\pgf@cal@easter@Z=\count411
+\pgf@cal@easter@D=\count412
+\pgf@cal@easter@E=\count413
+\pgf@cal@easter@N=\count414
+\pgf@cal@easter@M=\count415
+\pgf@cal@easter@julianday=\count416
+))
+\gtt@currentline=\count417
+\gtt@lasttitleline=\count418
+\gtt@currgrid=\count419
+\gtt@chartwidth=\count420
+\gtt@lasttitleslot=\count421
+\gtt@elementid=\count422
+\gtt@today@slot=\count423
+\gtt@startjulian=\count424
+\gtt@endjulian=\count425
+\gtt@chartid=\count426
+\gtt@vrule@slot=\count427
+\gtt@calendar@slots=\count428
+\gtt@calendar@weeknumber=\count429
+\gtt@calendar@startofweek=\count430
+\gtt@left@slot=\count431
+\gtt@right@slot=\count432
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\backref.sty
+Package: backref 2025-06-21 v1.45 Bibliographical back referencing
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2cite.sty
+Package: abntex2cite 2018/11/24 v-1.9.7 abnTeX2
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2abrev.st
+y)
+\minimumbiblabelwidth=\skip268
+\ABCIauxlen=\skip269
+\c@ABCIaux=\count433
+\c@ABCImax=\count434
+ (C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\biblabelsep=\skip270
+LaTeX Info: Redefining \newblock on input line 591.
+LaTeX Info: Redefining \cite on input line 618.
+\ABCItoken=\toks50
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 56.
+\tcc2@idxfile=\write5
+\openout5 = `tcc2.idx'.
+
+
+Writing index file tcc2.idx 
+(tcc2.aux
+Package babel Info: 'brazil' activates 'portuges' shorthands.
+(babel)             Reported on input line 12.
+)
+\openout1 = `tcc2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+Package hyperref Info: Link coloring ON on input line 131.
+\myptabbox=\box82
+\myptabboxwidth=\skip271
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count435
+\scratchdimen=\dimen322
+\scratchbox=\box83
+\nofMPsegments=\count436
+\nofMParguments=\count437
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count438
+\MPscratchDim=\dimen323
+\MPnumerator=\count439
+\makeMPintoPDFobject=\count440
+\everyMPtoPDFconversion=\toks52
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Info: Redefining \microtypecontext on input line 131.
+Package microtype Info: Applying patch `item' on input line 131.
+Package microtype Info: Applying patch `toc' on input line 131.
+Package microtype Info: Applying patch `eqnum' on input line 131.
+Package microtype Info: Applying patch `footnote' on input line 131.
+Package microtype Info: Applying patch `verbatim' on input line 131.
+LaTeX Info: Redefining \microtypesetup on input line 131.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+Package microtype Info: Patching command `\showhyphens'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
+47.
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
+File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmss' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [1
+
+{C:/Users/Bruno/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Brun
+o/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+53.
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+53.
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+153.
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+153.
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 153.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 153.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 153.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 153
+.
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 153
+.
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.153 
+       [1
+
+
+
+] [2
+
+] [3
+
+] (tcc2.lof
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
+1.
+
+(C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [4
+
+{C:/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}
+{C:/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}
+])
+[5] (tcc2.lot [6
+
+{C:/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}] [7
+]) [8]
+Overfull \hbox (13.77472pt too wide) in paragraph at lines 217--217
+[]|\T1/lmr/bx/n/12 (-20) Abreviatura/Sigla| 
+ []
+
+[9
+
+
+] (tcc2.toc
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 34.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 36.
+ [10
+
+]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 71.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 71.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 71.
+ [11] [12]
+Overfull \hbox (1.5877pt too wide) detected at line 127
+ \T1/lmss/bx/n/12 138
+ []
+
+
+Overfull \hbox (1.5877pt too wide) detected at line 128
+ \T1/lmss/bx/n/12 138
+ []
+
+
+Overfull \hbox (1.5877pt too wide) detected at line 129
+ \T1/lmss/bx/n/12 138
+ []
+
+
+Overfull \hbox (1.5877pt too wide) detected at line 130
+ \T1/lmss/bx/n/12 138
+ []
+
+
+Overfull \hbox (1.5877pt too wide) detected at line 132
+ \T1/lmss/bx/n/12 139
+ []
+
+
+Overfull \hbox (1.5877pt too wide) detected at line 135
+ \T1/lmss/bx/n/12 140
+ []
+
+) [13]
+Cap\'{\i }tulo 1.
+<assets/ataquesLATAM.png, id=577, 516.12825pt x 355.3275pt>
+File: assets/ataquesLATAM.png Graphic file (type png)
+<use assets/ataquesLATAM.png>
+Package pdftex.def Info: assets/ataquesLATAM.png  used on input line 259.
+(pdftex.def)             Requested size: 409.49722pt x 281.9147pt.
+[14
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1.1}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.264 
+       <./assets/ataquesLATAM.png>]
+
+LaTeX Warning: Citation `najafimehr2023' on page 15 undefined on input line 265
+.
+
+
+LaTeX Warning: Citation `najafimehr2023' on page 15 undefined on input line 265
+.
+
+
+LaTeX Warning: Citation `mahjabin2017' on page 15 undefined on input line 265.
+
+
+LaTeX Warning: Citation `apostu2026' on page 15 undefined on input line 267.
+
+
+LaTeX Warning: Citation `subramani2021' on page 15 undefined on input line 279.
+
+
+Package babel Info: 'brazil' activates 'portuges' shorthands.
+(babel)             Reported on input line 280.
+[15] [16]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 3
+19.
+ (C:\Users\Bruno\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [17{C:/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.en
+c}]
+
+LaTeX Warning: Citation `guastalla2024' on page 18 undefined on input line 323.
+
+
+
+LaTeX Warning: Citation `argerich2024' on page 18 undefined on input line 323.
+
+[18]
+Cap\'{\i }tulo 2.
+
+Overfull \hbox (12.59167pt too wide) in paragraph at lines 345--346
+[]\T1/lmr/m/n/12 (-20) Google Scho-lar: \T1/lmtt/m/n/12 ("DDoS attack detection
+"OR "detecção de ataques DDoS")
+ []
+
+
+Overfull \hbox (19.81584pt too wide) in paragraph at lines 345--346
+\T1/lmtt/m/n/12 AND ("machine learning"OR "aprendizado de máquina") AND ("super
+vised
+ []
+
+
+Overfull \hbox (50.9996pt too wide) in paragraph at lines 345--346
+\T1/lmtt/m/n/12 learning"OR "aprendizado supervisionado") AND ("Random Forest"O
+R "Support
+ []
+
+[19
+
+]
+<assets/filtroCriterios.png, id=652, 702.82574pt x 629.35126pt>
+File: assets/filtroCriterios.png Graphic file (type png)
+<use assets/filtroCriterios.png>
+Package pdftex.def Info: assets/filtroCriterios.png  used on input line 360.
+(pdftex.def)             Requested size: 341.25pt x 305.57109pt.
+ [20
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.370 
+       <./assets/filtroCriterios.png>] [21] [22]
+
+LaTeX Warning: Citation `stallings2020' on page 23 undefined on input line 409.
+
+
+
+LaTeX Warning: Citation `stallings2020' on page 23 undefined on input line 409.
+
+
+
+LaTeX Warning: Citation `stallings2020' on page 23 undefined on input line 409.
+
+
+[23]
+
+LaTeX Warning: Citation `stallings2020' on page 24 undefined on input line 414.
+
+
+
+LaTeX Warning: Citation `stallings2020' on page 24 undefined on input line 416.
+
+
+
+LaTeX Warning: Citation `stallings2020' on page 24 undefined on input line 421.
+
+
+[24]
+<assets/ataqueDDoS.png, id=747, 1541.76pt x 837.1275pt>
+File: assets/ataqueDDoS.png Graphic file (type png)
+<use assets/ataqueDDoS.png>
+Package pdftex.def Info: assets/ataqueDDoS.png  used on input line 444.
+(pdftex.def)             Requested size: 273.00278pt x 148.22392pt.
+ [25] [26
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.457 C
+       onsiderando os conjuntos de treinamento e teste, o CICDDoS2019 contem...
+ <./assets/ataqueDDoS.png>]
+<assets/distribuicao_classes_dataset_completo.png, id=788, 560.45386pt x 359.18
+19pt>
+File: assets/distribuicao_classes_dataset_completo.png Graphic file (type png)
+<use assets/distribuicao_classes_dataset_completo.png>
+Package pdftex.def Info: assets/distribuicao_classes_dataset_completo.png  used
+ on input line 469.
+(pdftex.def)             Requested size: 273.00278pt x 174.96481pt.
+ [27]
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 473.
+
+
+LaTeX Warning: Citation `yang2024' on page 28 undefined on input line 475.
+
+
+LaTeX Warning: Citation `yang2024' on page 28 undefined on input line 477.
+
+[28
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.4}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.482 
+       <./assets/distribuicao_classes_dataset_completo.png>] [29] [30]
+
+LaTeX Warning: Citation `vonluxburg2011' on page 31 undefined on input line 509
+.
+
+[31] [32] [33]
+
+LaTeX Warning: Citation `becerra2025' on page 34 undefined on input line 557.
+
+
+LaTeX Warning: Citation `becerra2025' on page 34 undefined on input line 559.
+
+[34]
+
+LaTeX Warning: Citation `becerra2025' on page 35 undefined on input line 561.
+
+
+LaTeX Warning: Citation `cortespvapnik1995' on page 35 undefined on input line 
+565.
+
+
+LaTeX Warning: Citation `cortespvapnik1995' on page 35 undefined on input line 
+567.
+
+
+LaTeX Warning: Citation `cortespvapnik1995' on page 35 undefined on input line 
+571.
+
+
+LaTeX Warning: Citation `cortespvapnik1995' on page 35 undefined on input line 
+575.
+
+[35]
+
+LaTeX Warning: Citation `cortespvapnik1995' on page 36 undefined on input line 
+577.
+
+
+LaTeX Warning: Citation `minh2022' on page 36 undefined on input line 585.
+
+
+LaTeX Warning: Citation `minh2022' on page 36 undefined on input line 587.
+
+[36]
+
+LaTeX Warning: Citation `lundberg2017' on page 37 undefined on input line 591.
+
+
+LaTeX Warning: Citation `lundberg2017' on page 37 undefined on input line 593.
+
+[37] [38] [39{C:/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/l
+m-mathex.enc}] [40] [41] [42]
+Cap\'{\i }tulo 3.
+[43
+
+]
+<assets/arquitetura_metodologia.png, id=1035, 630.85687pt x 149.05687pt>
+File: assets/arquitetura_metodologia.png Graphic file (type png)
+<use assets/arquitetura_metodologia.png>
+Package pdftex.def Info: assets/arquitetura_metodologia.png  used on input line
+ 745.
+(pdftex.def)             Requested size: 455.0pt x 107.50735pt.
+ [44
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.5}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.764   \textbf
+               {Joblib (1.6.0):} utilizado para persistir e carregar modelos...
+ <./assets/arquitetura_metodologia.png>] [45]
+Underfull \hbox (badness 10000) in paragraph at lines 803--803
+[]|\T1/lmr/m/n/10 (+20) Variáveis com-pa-ra-
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 803--803
+[]|\T1/lmr/m/n/10 (+20) Variáveis con-tro-la-
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 803--803
+[]|\T1/lmr/m/n/10 (+20) Classificação bi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 803--803
+[]|\T1/lmr/m/n/10 (+20) ROC-AUC, acu-rá-cia,
+ []
+
+
+Underfull \hbox (badness 3029) in paragraph at lines 803--803
+\T1/lmr/m/n/10 (+20) MCC, taxa de falso
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 803--803
+[]|\T1/lmr/m/n/10 (+20) Configuração
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 803--803
+\T1/lmr/m/n/10 (+20) pa-drão de cada
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 803--803
+[]|\T1/lmr/m/n/10 (+20) ROC-AUC, acu-rá-cia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 803--803
+\T1/lmr/m/n/10 (+20) MCC, mé-tri-cas por
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 803--803
+[]|\T1/lmr/m/n/10 (+20) Configuração
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 803--803
+\T1/lmr/m/n/10 (+20) pa-drão de cada
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 803--803
+[]|\T1/lmr/m/n/10 (+20) Métrica de se-le-ção e
+ []
+
+
+Underfull \hbox (badness 7362) in paragraph at lines 803--803
+[]|\T1/lmr/m/n/10 (+20) Modelos fi-nais e
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 803--803
+[]|\T1/lmr/m/n/10 (+20) Simulação do
+ []
+
+
+Underfull \hbox (badness 6842) in paragraph at lines 803--803
+\T1/lmr/m/n/10 (+20) e mes-mos flu-xos
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 803--803
+[]|\T1/lmr/m/n/10 (+20) Comparação en-tre
+ []
+
+
+Underfull \hbox (badness 2865) in paragraph at lines 803--803
+\T1/lmr/m/n/10 (+20) mo-de-los se-le-ci-o-na-
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 803--803
+\T1/lmr/m/n/10 (+20) vo-ca-ção, F1 e MCC,
+ []
+
+[46] [47
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.819 C
+       ada um dos 18 arquivos CSV foi associado a uma tabela prÃ³pria no Cli...
+]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 834.
+ [48] [49
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.2}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.880 
+      ]
+<assets/02_distribuicao_classes_corrigida.png, id=1068, 1938.24126pt x 854.1912
+5pt>
+File: assets/02_distribuicao_classes_corrigida.png Graphic file (type png)
+<use assets/02_distribuicao_classes_corrigida.png>
+Package pdftex.def Info: assets/02_distribuicao_classes_corrigida.png  used on 
+input line 890.
+(pdftex.def)             Requested size: 455.0pt x 200.5134pt.
+ [50] [51
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.6}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.907 
+       <./assets/02_distribuicao_classes_corrigida.png (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 908.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\times' on input line 908.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 908.
+
+
+Overfull \hbox (86.31837pt too wide) in paragraph at lines 909--910
+\T1/lmtt/m/n/12 fwd_packet_length_min \T1/lmr/m/n/12 (-20) (0,9238), \T1/lmtt/m
+/n/12 inbound \T1/lmr/m/n/12 (-20) (0,9029), \T1/lmtt/m/n/12 fwd_packet_length_
+mean \T1/lmr/m/n/12 (-20) e \T1/lmtt/m/n/12 avg_fwd_segment_size
+ []
+
+[52] [53] [54]
+Underfull \hbox (badness 10000) in paragraph at lines 972--972
+[]|\T1/lmr/m/n/12 (+20) NetBIOS
+ []
+
+[55
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.3}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.994 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.4}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.994 
+      ] [56
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.5}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1031 
+       ]
+Overfull \hbox (26.44173pt too wide) in paragraph at lines 1045--1046
+[]\T1/lmr/m/n/12 (-20) O pré-processamento ge-rou \T1/lmtt/m/n/12 prep_final_tr
+eino\T1/lmr/m/n/12 (-20) , com 8.257.343 li-nhas, e \T1/lmtt/m/n/12 prep_final_
+teste\T1/lmr/m/n/12 (-20) ,
+ []
+
+[57] [58]
+Overfull \hbox (27.5594pt too wide) in paragraph at lines 1070--1079
+ [][] 
+ []
+
+[59
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.6}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1086 
+       ]
+Overfull \hbox (69.08493pt too wide) in paragraph at lines 1089--1090
+[]\T1/lmtt/m/n/12 avg_fwd_segment_size\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 bw
+d_header_length\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 max_packet_length\T1/lmr/
+m/n/12 (-20) , \T1/lmtt/m/n/12 bwd_iat_max\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/1
+2 bwd_iat_total\T1/lmr/m/n/12 (-20) ,
+ []
+
+
+Overfull \hbox (2.424pt too wide) in paragraph at lines 1089--1090
+\T1/lmtt/m/n/12 bwd_iat_mean\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 fwd_packet_l
+ength_max\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 total_length_of_fwd_packets\T1/
+lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 bwd_iat_min\T1/lmr/m/n/12 (-20) ,
+ []
+
+
+Overfull \hbox (39.1101pt too wide) in paragraph at lines 1089--1090
+\T1/lmtt/m/n/12 down_up_ratio\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 flow_bytes_
+s\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 flow_iat_max\T1/lmr/m/n/12 (-20) , \T1/
+lmtt/m/n/12 packet_length_std\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 packet_leng
+th_variance\T1/lmr/m/n/12 (-20) ,
+ []
+
+
+Overfull \hbox (64.17403pt too wide) in paragraph at lines 1089--1090
+\T1/lmtt/m/n/12 bwd_packet_length_max\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 tot
+al_length_of_bwd_packets\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 avg_bwd_segment_
+size\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 flow_iat_mean\T1/lmr/m/n/12 (-20) ,
+ []
+
+
+Overfull \hbox (45.28511pt too wide) in paragraph at lines 1089--1090
+\T1/lmtt/m/n/12 fwd_packets_s\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 fwd_header_
+length\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 flow_duration\T1/lmr/m/n/12 (-20) 
+, \T1/lmtt/m/n/12 init_win_bytes_forward\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 
+flow_iat_std\T1/lmr/m/n/12 (-20) ,
+ []
+
+
+Overfull \hbox (82.33513pt too wide) in paragraph at lines 1089--1090
+\T1/lmtt/m/n/12 init_win_bytes_backward\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 b
+wd_packet_length_min\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 protocol\T1/lmr/m/n/
+12 (-20) , \T1/lmtt/m/n/12 urg_flag_count\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12
+ total_fwd_packets\T1/lmr/m/n/12 (-20) ,
+ []
+
+
+Overfull \hbox (20.5851pt too wide) in paragraph at lines 1089--1090
+\T1/lmtt/m/n/12 flow_iat_min\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 min_seg_size
+_forward\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 act_data_pkt_fwd\T1/lmr/m/n/12 (
+-20) , \T1/lmtt/m/n/12 bwd_iat_std\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 cwe_fl
+ag_count\T1/lmr/m/n/12 (-20) ,
+ []
+
+
+Overfull \hbox (20.5851pt too wide) in paragraph at lines 1089--1090
+\T1/lmtt/m/n/12 bwd_packet_length_std\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 fwd
+_packet_length_std\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 fwd_psh_flags\T1/lmr/m
+/n/12 (-20) , \T1/lmtt/m/n/12 idle_min\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 ac
+tive_min\T1/lmr/m/n/12 (-20) ,
+ []
+
+[60] [61] [62
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.7}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1164 
+       ] [63
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.8}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1187 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.9}) h
+as been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1187 
+       ] [64] [65
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.10}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1224 
+       ] [66] [67
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.11}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1281 
+       ]
+<assets/fig_cv_ajuste_5dobras.png, id=1147, 818.45775pt x 471.56175pt>
+File: assets/fig_cv_ajuste_5dobras.png Graphic file (type png)
+<use assets/fig_cv_ajuste_5dobras.png>
+Package pdftex.def Info: assets/fig_cv_ajuste_5dobras.png  used on input line 1
+312.
+(pdftex.def)             Requested size: 455.0pt x 262.1516pt.
+ [68
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.12}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1316 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.13}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1316 
+       ] [69
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.7}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1320 
+        <./assets/fig_cv_ajuste_5dobras.png>] [70
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.14}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1346 
+       ]
+Overfull \hbox (108.19955pt too wide) in paragraph at lines 1362--1371
+ [][] 
+ []
+
+[71] [72
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.15}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1388 
+       ]
+<assets/influencia_efeitos_principais.png, id=1177, 867.24pt x 448.074pt>
+File: assets/influencia_efeitos_principais.png Graphic file (type png)
+<use assets/influencia_efeitos_principais.png>
+Package pdftex.def Info: assets/influencia_efeitos_principais.png  used on inpu
+t line 1403.
+(pdftex.def)             Requested size: 455.0pt x 235.08511pt.
+ [73]
+<assets/influencia_interacao.png, id=1183, 939.51pt x 289.08pt>
+File: assets/influencia_interacao.png Graphic file (type png)
+<use assets/influencia_interacao.png>
+Package pdftex.def Info: assets/influencia_interacao.png  used on input line 14
+15.
+(pdftex.def)             Requested size: 364.00139pt x 111.9997pt.
+<assets/convergencia_arvores.png, id=1185, 867.24pt x 289.08pt>
+File: assets/convergencia_arvores.png Graphic file (type png)
+<use assets/convergencia_arvores.png>
+Package pdftex.def Info: assets/convergencia_arvores.png  used on input line 14
+27.
+(pdftex.def)             Requested size: 364.00139pt x 121.33336pt.
+ [74
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.8}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1430 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.9}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1430 
+        <./assets/influencia_efeitos_principais.png> <./assets/influencia_inter
+acao.png>] [75
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.10})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1461 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.16}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1461 
+        <./assets/convergencia_arvores.png>]
+<assets/curvas_teste.png, id=1199, 794.97pt x 303.534pt>
+File: assets/curvas_teste.png Graphic file (type png)
+<use assets/curvas_teste.png>
+Package pdftex.def Info: assets/curvas_teste.png  used on input line 1489.
+(pdftex.def)             Requested size: 455.0pt x 173.72943pt.
+ [76
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.17}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1517 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.11})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1517 
+        <./assets/curvas_teste.png>]
+<assets/recall_por_tipo_teste.png, id=1206, 737.70993pt x 324.10315pt>
+File: assets/recall_por_tipo_teste.png Graphic file (type png)
+<use assets/recall_por_tipo_teste.png>
+Package pdftex.def Info: assets/recall_por_tipo_teste.png  used on input line 1
+524.
+(pdftex.def)             Requested size: 455.0pt x 199.90332pt.
+ [77
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.18}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1553 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.12})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1553 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.19}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1553 
+        <./assets/recall_por_tipo_teste.png>] [78]
+<assets/grafico_sementes.png, id=1220, 903.375pt x 289.08pt>
+File: assets/grafico_sementes.png Graphic file (type png)
+<use assets/grafico_sementes.png>
+Package pdftex.def Info: assets/grafico_sementes.png  used on input line 1592.
+(pdftex.def)             Requested size: 455.0pt x 145.60269pt.
+
+
+LaTeX Warning: Reference `sec:views' on page 79 undefined on input line 1602.
+
+
+LaTeX Warning: Reference `sec:balanceamento' on page 79 undefined on input line
+ 1602.
+
+
+LaTeX Warning: Reference `sec:rf-bin-treino' on page 79 undefined on input line
+ 1602.
+
+[79
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.20}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1603 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.13})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1603 
+        <./assets/grafico_sementes.png>] [80
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.21}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1633 
+       ]
+<assets/svm_custo_por_tamanho.png, id=1237, 794.97pt x 289.08pt>
+File: assets/svm_custo_por_tamanho.png Graphic file (type png)
+<use assets/svm_custo_por_tamanho.png>
+Package pdftex.def Info: assets/svm_custo_por_tamanho.png  used on input line 1
+658.
+(pdftex.def)             Requested size: 386.75278pt x 140.6403pt.
+ [81
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.22}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1667 \item \textbf
+                    {Sensibilidade a $C$ e $\gamma$.} Na mesma amostra, o te...
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.14})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1667 \item \textbf
+                    {Sensibilidade a $C$ e $\gamma$.} Na mesma amostra, o te...
+ <./assets/svm_custo_por_tamanho.png>] [82]
+<assets/svm_influencia_efeitos_principais.png, id=1252, 650.43pt x 448.074pt>
+File: assets/svm_influencia_efeitos_principais.png Graphic file (type png)
+<use assets/svm_influencia_efeitos_principais.png>
+Package pdftex.def Info: assets/svm_influencia_efeitos_principais.png  used on 
+input line 1695.
+(pdftex.def)             Requested size: 455.0pt x 313.45137pt.
+ [83]
+<assets/svm_influencia_interacao.png, id=1257, 939.51pt x 289.08pt>
+File: assets/svm_influencia_interacao.png Graphic file (type png)
+<use assets/svm_influencia_interacao.png>
+Package pdftex.def Info: assets/svm_influencia_interacao.png  used on input lin
+e 1706.
+(pdftex.def)             Requested size: 386.75278pt x 118.99994pt.
+ [84
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.15})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1712 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.16})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1712 
+        <./assets/svm_influencia_efeitos_principais.png> <./assets/svm_influenc
+ia_interacao.png>]
+Overfull \hbox (59.409pt too wide) in paragraph at lines 1768--1778
+ [][] 
+ []
+
+[85
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.23}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1781 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.24}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1781 
+       ]
+
+LaTeX Warning: Reference `sec:rf-bin-treino' on page 86 undefined on input line
+ 1782.
+
+<assets/svm_fig_cv_ajuste_5dobras.png, id=1273, 818.45775pt x 471.56175pt>
+File: assets/svm_fig_cv_ajuste_5dobras.png Graphic file (type png)
+<use assets/svm_fig_cv_ajuste_5dobras.png>
+Package pdftex.def Info: assets/svm_fig_cv_ajuste_5dobras.png  used on input li
+ne 1810.
+(pdftex.def)             Requested size: 455.0pt x 262.1516pt.
+[86
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.25}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1814 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.26}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1814 
+       ]
+
+LaTeX Warning: Reference `sec:rf-bin-treino' on page 87 undefined on input line
+ 1815.
+
+[87
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.17})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1840 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.27}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1840 
+        <./assets/svm_fig_cv_ajuste_5dobras.png>] [88
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.28}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1890 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.29}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1890 
+       ]
+<assets/svm_curvas_teste.png, id=1294, 794.97pt x 303.534pt>
+File: assets/svm_curvas_teste.png Graphic file (type png)
+<use assets/svm_curvas_teste.png>
+Package pdftex.def Info: assets/svm_curvas_teste.png  used on input line 1897.
+(pdftex.def)             Requested size: 455.0pt x 173.72943pt.
+ [89
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.18})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1927 
+        <./assets/svm_curvas_teste.png>]
+<assets/svm_recall_por_tipo_teste.png, id=1301, 737.70993pt x 324.10315pt>
+File: assets/svm_recall_por_tipo_teste.png Graphic file (type png)
+<use assets/svm_recall_por_tipo_teste.png>
+Package pdftex.def Info: assets/svm_recall_por_tipo_teste.png  used on input li
+ne 1934.
+(pdftex.def)             Requested size: 455.0pt x 199.90332pt.
+ [90
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.30}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1944 \subsection
+                  {ComparaÃ§Ã£o entre Random Forest e SVM binÃ¡rios}
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.19})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1944 \subsection
+                  {ComparaÃ§Ã£o entre Random Forest e SVM binÃ¡rios} <./assets/
+svm_recall_por_tipo_teste.png>] [91
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.31}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1974 
+       ]
+Overfull \hbox (27.81174pt too wide) in paragraph at lines 1986--1987
+[]\T1/lmr/m/n/12 (-20) Da se-le-ção de 45 atri-bu-tos do mo-delo mul-ti-classe,
+ fo-ram re-ti-ra-dos por abla-ção \T1/lmtt/m/n/12 bwd_packets_s\T1/lmr/m/n/12 (
+-20) ,
+ []
+
+[92]
+Overfull \hbox (6.32745pt too wide) in paragraph at lines 1993--1994
+\T1/lmtt/m/n/12 flow_bytes_s \T1/lmr/m/n/12 (-20) co-in-cide com a do bi-ná-rio
+ (689,59). Os in-di-ca-do-res \T1/lmtt/m/n/12 flow_packets_s_ausente
+ []
+
+[93] [94
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.32}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2034 \paragraph
+                 {ApÃªndice A -- Colunas de entrada dos modelos multiclasse ...
+]
+Overfull \hbox (14.4101pt too wide) in paragraph at lines 2036--2037
+\T1/lmtt/m/n/12 flow_packets_s\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 act_data_p
+kt_fwd\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 flow_iat_mean\T1/lmr/m/n/12 (-20) 
+, \T1/lmtt/m/n/12 max_packet_length\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 flow_
+bytes_s\T1/lmr/m/n/12 (-20) ,
+ []
+
+
+Overfull \hbox (8.23509pt too wide) in paragraph at lines 2036--2037
+\T1/lmtt/m/n/12 flow_duration\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 total_fwd_p
+ackets\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 flow_iat_std\T1/lmr/m/n/12 (-20) ,
+ \T1/lmtt/m/n/12 flow_iat_max\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 bwd_header_
+length\T1/lmr/m/n/12 (-20) ,
+ []
+
+
+Overfull \hbox (2.06009pt too wide) in paragraph at lines 2036--2037
+\T1/lmtt/m/n/12 bwd_iat_total\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 bwd_iat_max
+\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 bwd_iat_mean\T1/lmr/m/n/12 (-20) , \T1/l
+mtt/m/n/12 ack_flag_count\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 min_seg_size_fo
+rward\T1/lmr/m/n/12 (-20) ,
+ []
+
+
+Overfull \hbox (82.33513pt too wide) in paragraph at lines 2036--2037
+\T1/lmtt/m/n/12 bwd_iat_min\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 init_win_byte
+s_forward\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 fwd_packet_length_std\T1/lmr/m/
+n/12 (-20) , \T1/lmtt/m/n/12 flow_iat_min\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12
+ fwd_header_length\T1/lmr/m/n/12 (-20) ,
+ []
+
+
+Overfull \hbox (45.28511pt too wide) in paragraph at lines 2036--2037
+\T1/lmtt/m/n/12 idle_min\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 active_mean\T1/l
+mr/m/n/12 (-20) , \T1/lmtt/m/n/12 active_max\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n
+/12 total_length_of_bwd_packets\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 bwd_packe
+t_length_max\T1/lmr/m/n/12 (-20) ,
+ []
+
+
+Overfull \hbox (63.81012pt too wide) in paragraph at lines 2036--2037
+\T1/lmtt/m/n/12 bwd_packet_length_min\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 cwe
+_flag_count\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/12 bwd_iat_std\T1/lmr/m/n/12 (-2
+0) , \T1/lmtt/m/n/12 bwd_packet_length_std\T1/lmr/m/n/12 (-20) , \T1/lmtt/m/n/1
+2 fwd_psh_flags\T1/lmr/m/n/12 (-20) ,
+ []
+
+
+LaTeX Warning: Reference `sec:balanceamento' on page 95 undefined on input line
+ 2041.
+
+
+LaTeX Warning: Reference `sec:balanceamento' on page 95 undefined on input line
+ 2043.
+
+[95]
+
+LaTeX Warning: Reference `sec:balanceamento' on page 96 undefined on input line
+ 2075.
+
+[96
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.33}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2097 
+       ]
+
+LaTeX Warning: Reference `sec:balanceamento' on page 97 undefined on input line
+ 2100.
+
+[97
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.34}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2107 
+       ]
+
+LaTeX Warning: Reference `sec:rf-bin-treino' on page 98 undefined on input line
+ 2133.
+
+[98
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.35}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2158 
+       ]
+
+LaTeX Warning: Reference `sec:rf-bin-treino' on page 99 undefined on input line
+ 2161.
+
+[99
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.36}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2164 
+       ] [100
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.37}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2230 \end{table}
+                  
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.38}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2230 \end{table}
+                  ]
+<assets/rf_multi_cv_ajuste_5dobras.png, id=1380, 818.45775pt x 471.56175pt>
+File: assets/rf_multi_cv_ajuste_5dobras.png Graphic file (type png)
+<use assets/rf_multi_cv_ajuste_5dobras.png>
+Package pdftex.def Info: assets/rf_multi_cv_ajuste_5dobras.png  used on input l
+ine 2236.
+(pdftex.def)             Requested size: 455.0pt x 262.1516pt.
+
+
+LaTeX Warning: Reference `sec:rf-bin-treino' on page 101 undefined on input lin
+e 2243.
+
+[101
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.39}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2244 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.20})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2244 
+        <./assets/rf_multi_cv_ajuste_5dobras.png>] [102
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.40}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2272 
+       ]
+<assets/rf_multi_teste_padrao.png, id=1398, 939.51pt x 375.804pt>
+File: assets/rf_multi_teste_padrao.png Graphic file (type png)
+<use assets/rf_multi_teste_padrao.png>
+Package pdftex.def Info: assets/rf_multi_teste_padrao.png  used on input line 2
+299.
+(pdftex.def)             Requested size: 455.0pt x 182.00095pt.
+ [103
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.41}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2303 
+       ] [104
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.21})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2313 
+        <./assets/rf_multi_teste_padrao.png>]
+<assets/rf_multi_influencia_efeitos_principais.png, id=1415, 867.24pt x 448.074
+pt>
+File: assets/rf_multi_influencia_efeitos_principais.png Graphic file (type png)
+
+<use assets/rf_multi_influencia_efeitos_principais.png>
+Package pdftex.def Info: assets/rf_multi_influencia_efeitos_principais.png  use
+d on input line 2325.
+(pdftex.def)             Requested size: 455.0pt x 235.08511pt.
+ [105]
+<assets/rf_multi_influencia_interacao.png, id=1420, 939.51pt x 289.08pt>
+File: assets/rf_multi_influencia_interacao.png Graphic file (type png)
+<use assets/rf_multi_influencia_interacao.png>
+Package pdftex.def Info: assets/rf_multi_influencia_interacao.png  used on inpu
+t line 2335.
+(pdftex.def)             Requested size: 364.00139pt x 111.9997pt.
+<assets/rf_multi_convergencia_arvores.png, id=1422, 867.24pt x 289.08pt>
+File: assets/rf_multi_convergencia_arvores.png Graphic file (type png)
+<use assets/rf_multi_convergencia_arvores.png>
+Package pdftex.def Info: assets/rf_multi_convergencia_arvores.png  used on inpu
+t line 2347.
+(pdftex.def)             Requested size: 364.00139pt x 121.33336pt.
+ [106
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.22})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2351 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.23})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2351 
+        <./assets/rf_multi_influencia_efeitos_principais.png> <./assets/rf_mult
+i_influencia_interacao.png>] [107
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.24})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2397 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.42}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2397 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.43}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2397 
+        <./assets/rf_multi_convergencia_arvores.png>]
+<assets/rf_multi_teste_ajustado.png, id=1437, 939.51pt x 375.804pt>
+File: assets/rf_multi_teste_ajustado.png Graphic file (type png)
+<use assets/rf_multi_teste_ajustado.png>
+Package pdftex.def Info: assets/rf_multi_teste_ajustado.png  used on input line
+ 2429.
+(pdftex.def)             Requested size: 455.0pt x 182.00095pt.
+ [108
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.44}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2433 
+       ] [109
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.25})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2466 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.45}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2466 
+        <./assets/rf_multi_teste_ajustado.png>]
+<assets/rf_multi_grafico_sementes.png, id=1452, 939.51pt x 505.89pt>
+File: assets/rf_multi_grafico_sementes.png Graphic file (type png)
+<use assets/rf_multi_grafico_sementes.png>
+Package pdftex.def Info: assets/rf_multi_grafico_sementes.png  used on input li
+ne 2500.
+(pdftex.def)             Requested size: 455.0pt x 245.00125pt.
+ [110
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.46}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2504 
+       ] [111
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.26})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2512 
+        <./assets/rf_multi_grafico_sementes.png>] [112
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.47}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2559 
+       ]
+<assets/svm_multi_custo_por_tamanho.png, id=1474, 794.97pt x 289.08pt>
+File: assets/svm_multi_custo_por_tamanho.png Graphic file (type png)
+<use assets/svm_multi_custo_por_tamanho.png>
+Package pdftex.def Info: assets/svm_multi_custo_por_tamanho.png  used on input 
+line 2565.
+(pdftex.def)             Requested size: 386.75278pt x 140.6403pt.
+ [113
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.48}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2579 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.27})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2579 
+        <./assets/svm_multi_custo_por_tamanho.png>] [114]
+<assets/svm_multi_influencia_efeitos_principais.png, id=1488, 650.43pt x 448.07
+4pt>
+File: assets/svm_multi_influencia_efeitos_principais.png Graphic file (type png
+)
+<use assets/svm_multi_influencia_efeitos_principais.png>
+Package pdftex.def Info: assets/svm_multi_influencia_efeitos_principais.png  us
+ed on input line 2601.
+(pdftex.def)             Requested size: 455.0pt x 313.45137pt.
+ [115]
+<assets/svm_multi_influencia_interacao.png, id=1493, 939.51pt x 289.08pt>
+File: assets/svm_multi_influencia_interacao.png Graphic file (type png)
+<use assets/svm_multi_influencia_interacao.png>
+Package pdftex.def Info: assets/svm_multi_influencia_interacao.png  used on inp
+ut line 2611.
+(pdftex.def)             Requested size: 364.00139pt x 111.9997pt.
+ [116
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.28})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2617 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.29})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2617 
+        <./assets/svm_multi_influencia_efeitos_principais.png> <./assets/svm_mu
+lti_influencia_interacao.png>] [117
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.49}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2701 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.50}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2701 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.51}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2701 
+       ]
+<assets/svm_multi_cv_ajuste_5dobras.png, id=1512, 818.45775pt x 471.56175pt>
+File: assets/svm_multi_cv_ajuste_5dobras.png Graphic file (type png)
+<use assets/svm_multi_cv_ajuste_5dobras.png>
+Package pdftex.def Info: assets/svm_multi_cv_ajuste_5dobras.png  used on input 
+line 2729.
+(pdftex.def)             Requested size: 455.0pt x 262.1516pt.
+ [118
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.52}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2733 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.53}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2733 
+       ] [119
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.30})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2760 
+        <./assets/svm_multi_cv_ajuste_5dobras.png>] [120
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.54}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2786 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.55}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2786 
+       ]
+<assets/svm_multi_teste_padrao.png, id=1531, 939.51pt x 375.804pt>
+File: assets/svm_multi_teste_padrao.png Graphic file (type png)
+<use assets/svm_multi_teste_padrao.png>
+Package pdftex.def Info: assets/svm_multi_teste_padrao.png  used on input line 
+2812.
+(pdftex.def)             Requested size: 455.0pt x 182.00095pt.
+<assets/svm_multi_teste_ajustado.png, id=1532, 939.51pt x 375.804pt>
+File: assets/svm_multi_teste_ajustado.png Graphic file (type png)
+<use assets/svm_multi_teste_ajustado.png>
+Package pdftex.def Info: assets/svm_multi_teste_ajustado.png  used on input lin
+e 2822.
+(pdftex.def)             Requested size: 455.0pt x 182.00095pt.
+ [121
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.56}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2826 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.31})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2826 
+        <./assets/svm_multi_teste_padrao.png>] [122
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.32})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2852 
+        <./assets/svm_multi_teste_ajustado.png>] [123
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.57}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2866 
+       ] [124
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.58}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2896 
+       ] [125
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.59}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2942 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.60}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.2942 
+       ] [126
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.61}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.3008 \end{table}
+                  
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.62}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.3008 \end{table}
+                  ] [127
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.63}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.3053 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.64}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.3053 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.65}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.3053 
+       ] [128
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.66}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.3100 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.67}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.3100 
+       ]
+
+LaTeX Warning: Reference `sec:rf-bin-treino' on page 129 undefined on input lin
+e 3167.
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 3184--3184
+[]|\T1/lmr/m/n/10 (+20) Amostra do SHAP
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3184--3184
+[]|\T1/lmtt/m/n/10 TreeExplainer \T1/lmr/m/n/10 (+20) no RF e
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3184--3184
+\T1/lmtt/m/n/10 PermutationExplainer \T1/lmr/m/n/10 (+20) no SVM
+ []
+
+[129
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.68}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.3190 
+       ] [130
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.69}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.3215 
+       ] [131
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.70}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.3254 
+       ]
+Overfull \hbox (4.44pt too wide) in paragraph at lines 3257--3258
+\T1/lmr/m/n/12 (-20) va-lo-res ne-ga-ti-vos em parte das li-nhas (va-lo-res da 
+or-dem de $\OMS/lmsy/m/n/12 ^^@\OT1/lmr/m/n/12 (-20) 2 \OMS/lmsy/m/n/12 ^^B \OT
+1/lmr/m/n/12 (-20) 10[]$ \T1/lmr/m/n/12 (-20) em \T1/lmtt/m/n/12 fwd_header_len
+gth\T1/lmr/m/n/12 (-20) ),
+ []
+
+<assets/shap_bin_importancia_global_rf_ajustado.png, id=1605, 928.94746pt x 371
+.35661pt>
+File: assets/shap_bin_importancia_global_rf_ajustado.png Graphic file (type png
+)
+<use assets/shap_bin_importancia_global_rf_ajustado.png>
+Package pdftex.def Info: assets/shap_bin_importancia_global_rf_ajustado.png  us
+ed on input line 3263.
+(pdftex.def)             Requested size: 455.0pt x 181.887pt.
+[132]
+<assets/shap_bin_importancia_global_svm_ajustado.png, id=1611, 928.39154pt x 37
+1.35661pt>
+File: assets/shap_bin_importancia_global_svm_ajustado.png Graphic file (type pn
+g)
+<use assets/shap_bin_importancia_global_svm_ajustado.png>
+Package pdftex.def Info: assets/shap_bin_importancia_global_svm_ajustado.png  u
+sed on input line 3271.
+(pdftex.def)             Requested size: 455.0pt x 182.00032pt.
+<assets/shap_multi_importancia_global_rf_ajustado.png, id=1612, 928.94746pt x 3
+71.35661pt>
+File: assets/shap_multi_importancia_global_rf_ajustado.png Graphic file (type p
+ng)
+<use assets/shap_multi_importancia_global_rf_ajustado.png>
+Package pdftex.def Info: assets/shap_multi_importancia_global_rf_ajustado.png  
+used on input line 3279.
+(pdftex.def)             Requested size: 455.0pt x 181.887pt.
+ [133
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.33})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.3282 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.34})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.3282 
+        <./assets/shap_bin_importancia_global_rf_ajustado.png> <./assets/shap_b
+in_importancia_global_svm_ajustado.png>]
+<assets/shap_multi_importancia_global_svm_ajustado.png, id=1619, 928.94746pt x 
+371.35661pt>
+File: assets/shap_multi_importancia_global_svm_ajustado.png Graphic file (type 
+png)
+<use assets/shap_multi_importancia_global_svm_ajustado.png>
+Package pdftex.def Info: assets/shap_multi_importancia_global_svm_ajustado.png 
+ used on input line 3287.
+(pdftex.def)             Requested size: 455.0pt x 181.887pt.
+ [134
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.35})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.3316 
+       
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.36})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.3316 
+        <./assets/shap_multi_importancia_global_rf_ajustado.png> <./assets/shap
+_multi_importancia_global_svm_ajustado.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 3336--3336
+[]|[][]\T1/lmr/m/n/10 (+20) Abiramasundari e
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3336--3336
+[]|\T1/lmr/m/n/10 (+20) CICIDS2017, CI-
+ []
+
+
+Underfull \hbox (badness 5504) in paragraph at lines 3336--3336
+\T1/lmr/m/n/10 (+20) CIDS2018 e CICD-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3336--3336
+[]|\T1/lmr/m/n/10 (+20) Conjunto pró-prio
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 3336--3336
+\T1/lmr/m/n/10 (+20) em SDN (re-fe-rên-cia:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3336--3336
+[]|\T1/lmr/m/n/10 (+20) CICDDoS2019, dias
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3336--3336
+[]|\T1/lmr/m/n/10 (+20) 12/01/2019 e
+ []
+
+
+LaTeX Warning: Reference `sec:rf-bin-treino' on page 135 undefined on input lin
+e 3341.
+
+[135
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.71}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.3342 
+       ] [136] [137]
+Cap\'{\i }tulo 4.
+[138
+
+] (tcc2.bbl (tcc2.brf)
+\tf@brf=\write6
+\openout6 = `tcc2.brf'.
+
+ [139
+
+]
+bibitemlist
+[140
+
+]) [141]
+\tf@lof=\write7
+\openout7 = `tcc2.lof'.
+
+\tf@lot=\write8
+\openout8 = `tcc2.lot'.
+
+\tf@toc=\write9
+\openout9 = `tcc2.toc'.
+
+ 
+enddocument/afterlastpage (AED): lastpage setting LastPage.
+(tcc2.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2020/03/25>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `tcc2.brf' has not changed.
+(rerunfilecheck)             Checksum: 098C611BC7233515D123852E984D99A4;9718.
+ ) 
+Here is how much of TeX's memory you used:
+ 33164 strings out of 467867
+ 620484 string characters out of 5418334
+ 1080633 words of memory out of 5000000
+ 60617 multiletter control sequences out of 15000+600000
+ 758850 words of font info for 314 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 99i,13n,118p,1781b,745s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pf
+b><C:/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
+b><C:/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.p
+fb><C:/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.p
+fb><C:/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.p
+fb><C:/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.p
+fb><C:/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pf
+b><C:/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
+><C:/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
+<C:/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C
+:/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/
+Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Us
+ers/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Us
+ers/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Us
+ers/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Us
+ers/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Us
+ers/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Us
+ers/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/
+Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso10.pfb><C:
+/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb><C
+:/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C
+:/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:
+/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:
+/Users/Bruno/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on tcc2.pdf (142 pages, 4419776 bytes).
+PDF statistics:
+ 2353 PDF objects out of 2487 (max. 8388607)
+ 442 named destinations out of 1000 (max. 500000)
+ 72385 words of extra memory for PDF output out of 74296 (max. 10000000)
+

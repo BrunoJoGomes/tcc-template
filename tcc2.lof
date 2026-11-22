@@ -1,0 +1,38 @@
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces Quantidade de ataques cibernéticos nos cinco países mais visados da América Latina em 2025}}{14}{figure.1.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Critérios de exclusão metodologia da pesquisa bibliográfica}}{20}{figure.2.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Arquitetura de um ataque DDoS}}{26}{figure.2.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Distribuição de classes do dataset}}{28}{figure.2.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Diagrama UML da arquitetura experimental}}{44}{figure.3.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Distribuição dos rótulos.}}{51}{figure.3.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Validação cruzada no ajuste (5 dobras)}}{69}{figure.3.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Efeito principal de cada hiperparâmetro na validação cruzada}}{74}{figure.3.8}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Interação entre profundidade máxima e \texttt {min\_samples\_leaf}}}{74}{figure.3.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Desempenho em função do número de árvores}}{75}{figure.3.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Curvas ROC e de precisão $\times $ recall do BENIGN do modelo ajustado no teste}}{76}{figure.3.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Recall por tipo de ataque no teste}}{77}{figure.3.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Resultados no teste por semente, modelos padrão e ajustado}}{79}{figure.3.13}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Tempo de treino e vetores de suporte do SVM conforme o tamanho da amostra}}{81}{figure.3.14}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Efeito dos hiperparâmetros do SVM na validação cruzada}}{84}{figure.3.15}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Interação entre $C$ e $\gamma $ na busca do SVM}}{84}{figure.3.16}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Validação cruzada no ajuste do SVM (5 dobras)}}{87}{figure.3.17}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Curvas ROC e de precisão $\times $ recall da classe BENIGN no teste (SVM)}}{89}{figure.3.18}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Recall por tipo de ataque no teste (SVM)}}{90}{figure.3.19}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Validação cruzada no ajuste do RF multiclasse (5 dobras)}}{101}{figure.3.20}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Matrizes de confusão e métricas por classe do RF multiclasse padrão no teste}}{104}{figure.3.21}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Efeito principal de cada hiperparâmetro na validação cruzada (RF multiclasse)}}{106}{figure.3.22}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Interação entre profundidade máxima e \texttt {min\_samples\_leaf} (RF multiclasse)}}{106}{figure.3.23}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Desempenho em função do número de árvores (RF multiclasse)}}{107}{figure.3.24}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Matrizes de confusão e métricas por classe do RF multiclasse ajustado no teste}}{109}{figure.3.25}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Resultados do RF multiclasse no teste por semente, modelos padrão e ajustado}}{111}{figure.3.26}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Tempo de treino e vetores de suporte do SVM multiclasse conforme o tamanho da amostra}}{113}{figure.3.27}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Efeito dos hiperparâmetros do SVM multiclasse na validação cruzada}}{116}{figure.3.28}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Interação entre $C$ e $\gamma $ na busca do SVM multiclasse}}{116}{figure.3.29}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Validação cruzada no ajuste do SVM multiclasse (5 dobras)}}{119}{figure.3.30}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Matrizes de confusão e métricas por classe do SVM multiclasse padrão no teste}}{121}{figure.3.31}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Matrizes de confusão e métricas por classe do SVM multiclasse ajustado no teste}}{122}{figure.3.32}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Importância global dos atributos no RF ajustado binário}}{133}{figure.3.33}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Importância global dos atributos no SVM ajustado binário}}{133}{figure.3.34}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Importância global dos atributos no RF ajustado multiclasse}}{134}{figure.3.35}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Importância global dos atributos no SVM ajustado multiclasse}}{134}{figure.3.36}%

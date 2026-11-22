@@ -1,0 +1,73 @@
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\contentsline {table}{\numberline {1}{\ignorespaces Plano de experimentação}}{47}{table.3.1}%
+\contentsline {table}{\numberline {2}{\ignorespaces Registros por tabela bruta no ClickHouse.}}{49}{table.3.2}%
+\contentsline {table}{\numberline {3}{\ignorespaces Registros antes e depois do pré-processamento, por conjunto}}{55}{table.3.3}%
+\contentsline {table}{\numberline {4}{\ignorespaces Registros por classe antes e depois da deduplicação do treino}}{55}{table.3.4}%
+\contentsline {table}{\numberline {5}{\ignorespaces Registros por classe no teste (sem deduplicação) e nas visões dos modelos}}{56}{table.3.5}%
+\contentsline {table}{\numberline {6}{\ignorespaces Registros por classe no treino e no teste, com e sem sobreposição ao treino (binário)}}{59}{table.3.6}%
+\contentsline {table}{\numberline {7}{\ignorespaces Registros por classe após a deduplicação e nos conjuntos do balanceamento binário}}{62}{table.3.7}%
+\contentsline {table}{\numberline {8}{\ignorespaces Distribuição dos registros selecionados por classe e tipo de ataque}}{63}{table.3.8}%
+\contentsline {table}{\numberline {9}{\ignorespaces Composição do conjunto utilizado no refit}}{63}{table.3.9}%
+\contentsline {table}{\numberline {10}{\ignorespaces Configuração inicial do Random Forest}}{65}{table.3.10}%
+\contentsline {table}{\numberline {11}{\ignorespaces Métricas do RF na validação (limiar 0,5)}}{67}{table.3.11}%
+\contentsline {table}{\numberline {12}{\ignorespaces Recall com taxa de falso alarme fixa (validação)}}{68}{table.3.12}%
+\contentsline {table}{\numberline {13}{\ignorespaces Dispersão das métricas (média $\pm $ desvio-padrão; mín--máx)}}{68}{table.3.13}%
+\contentsline {table}{\numberline {14}{\ignorespaces Inferência do modelo final (fim a fim)}}{70}{table.3.14}%
+\contentsline {table}{\numberline {15}{\ignorespaces Random Forest padrão no teste}}{72}{table.3.15}%
+\contentsline {table}{\numberline {16}{\ignorespaces Configurações do Random Forest comparadas na busca}}{75}{table.3.16}%
+\contentsline {table}{\numberline {17}{\ignorespaces Comparação dos modelos no teste}}{76}{table.3.17}%
+\contentsline {table}{\numberline {18}{\ignorespaces Recall por classe e tipo no teste}}{77}{table.3.18}%
+\contentsline {table}{\numberline {19}{\ignorespaces Custo de treino e tamanho dos modelos RF (sem os picos de memória do processo)}}{77}{table.3.19}%
+\contentsline {table}{\numberline {20}{\ignorespaces Variação das métricas entre cinco sementes no teste}}{79}{table.3.20}%
+\contentsline {table}{\numberline {21}{\ignorespaces Configuração inicial do SVM binário}}{80}{table.3.21}%
+\contentsline {table}{\numberline {22}{\ignorespaces Custo do treino do SVM em função do tamanho da amostra ($C = 1$, $\gamma $ de referência)}}{81}{table.3.22}%
+\contentsline {table}{\numberline {23}{\ignorespaces Configurações do SVM comparadas na busca}}{85}{table.3.23}%
+\contentsline {table}{\numberline {24}{\ignorespaces Métricas do SVM selecionado na validação (limiar 0)}}{85}{table.3.24}%
+\contentsline {table}{\numberline {25}{\ignorespaces Pontos de operação do SVM na validação}}{86}{table.3.25}%
+\contentsline {table}{\numberline {26}{\ignorespaces Dispersão das métricas do SVM selecionado (média $\pm $ desvio-padrão; mín--máx)}}{86}{table.3.26}%
+\contentsline {table}{\numberline {27}{\ignorespaces Custo de treino e tamanho dos modelos SVM (sem os picos de memória do processo)}}{87}{table.3.27}%
+\contentsline {table}{\numberline {28}{\ignorespaces Inferência do modelo final do SVM (fim a fim)}}{88}{table.3.28}%
+\contentsline {table}{\numberline {29}{\ignorespaces Comparação dos modelos SVM no teste}}{88}{table.3.29}%
+\contentsline {table}{\numberline {30}{\ignorespaces Recall por classe e tipo no teste para o SVM}}{90}{table.3.30}%
+\contentsline {table}{\numberline {31}{\ignorespaces Comparação dos modelos ajustados no teste}}{91}{table.3.31}%
+\contentsline {table}{\numberline {32}{\ignorespaces Registros por classe nas visões multiclasse}}{94}{table.3.32}%
+\contentsline {table}{\numberline {33}{\ignorespaces Distribuição dos registros por classe no balanceamento multiclasse}}{96}{table.3.33}%
+\contentsline {table}{\numberline {34}{\ignorespaces Pesos calculados para o ajuste e para a validação}}{97}{table.3.34}%
+\contentsline {table}{\numberline {35}{\ignorespaces Registros do ajuste marcados com conflito de rótulo}}{98}{table.3.35}%
+\contentsline {table}{\numberline {36}{\ignorespaces Configuração inicial do Random Forest multiclasse}}{99}{table.3.36}%
+\contentsline {table}{\numberline {37}{\ignorespaces Métricas do RF multiclasse na validação}}{100}{table.3.37}%
+\contentsline {table}{\numberline {38}{\ignorespaces Desempenho do RF multiclasse padrão por classe na validação}}{100}{table.3.38}%
+\contentsline {table}{\numberline {39}{\ignorespaces Dispersão das métricas do RF multiclasse (média $\pm $ desvio-padrão; mín--máx)}}{101}{table.3.39}%
+\contentsline {table}{\numberline {40}{\ignorespaces Inferência do RF multiclasse final (fim a fim)}}{102}{table.3.40}%
+\contentsline {table}{\numberline {41}{\ignorespaces Desempenho do RF multiclasse padrão por classe no teste}}{103}{table.3.41}%
+\contentsline {table}{\numberline {42}{\ignorespaces Configurações do RF multiclasse comparadas na busca}}{107}{table.3.42}%
+\contentsline {table}{\numberline {43}{\ignorespaces Configuração padrão e configuração selecionada do Random Forest multiclasse}}{107}{table.3.43}%
+\contentsline {table}{\numberline {44}{\ignorespaces Recall, precisão e F1 por classe no teste: RF multiclasse padrão e ajustado}}{108}{table.3.44}%
+\contentsline {table}{\numberline {45}{\ignorespaces Custo de treino e tamanho dos modelos RF multiclasse (sem os picos de memória do processo)}}{109}{table.3.45}%
+\contentsline {table}{\numberline {46}{\ignorespaces Variação das métricas do RF multiclasse entre cinco sementes no teste}}{110}{table.3.46}%
+\contentsline {table}{\numberline {47}{\ignorespaces Configuração inicial do SVM multiclasse}}{112}{table.3.47}%
+\contentsline {table}{\numberline {48}{\ignorespaces Custo do treino do SVM multiclasse em função do tamanho da amostra ($C = 1$, $\gamma $ de referência)}}{113}{table.3.48}%
+\contentsline {table}{\numberline {49}{\ignorespaces Configurações do SVM multiclasse comparadas na busca}}{117}{table.3.49}%
+\contentsline {table}{\numberline {50}{\ignorespaces Configuração padrão e configuração selecionada do SVM multiclasse}}{117}{table.3.50}%
+\contentsline {table}{\numberline {51}{\ignorespaces Métricas do SVM multiclasse selecionado na validação}}{117}{table.3.51}%
+\contentsline {table}{\numberline {52}{\ignorespaces Desempenho do SVM multiclasse selecionado por classe na validação}}{118}{table.3.52}%
+\contentsline {table}{\numberline {53}{\ignorespaces Dispersão das métricas do SVM multiclasse selecionado (média $\pm $ desvio-padrão; mín--máx)}}{118}{table.3.53}%
+\contentsline {table}{\numberline {54}{\ignorespaces Custo de treino e tamanho dos modelos SVM multiclasse}}{120}{table.3.54}%
+\contentsline {table}{\numberline {55}{\ignorespaces Inferência do SVM multiclasse (fim a fim, 1 processo)}}{120}{table.3.55}%
+\contentsline {table}{\numberline {56}{\ignorespaces Comparação dos modelos SVM multiclasse no teste}}{121}{table.3.56}%
+\contentsline {table}{\numberline {57}{\ignorespaces Desempenho dos SVMs multiclasse por classe no teste}}{123}{table.3.57}%
+\contentsline {table}{\numberline {58}{\ignorespaces Registros em conflito de rótulo por classe: 13 classes e 7 classes}}{124}{table.3.58}%
+\contentsline {table}{\numberline {59}{\ignorespaces Desempenho do RF padrão na validação segundo a presença de conflito}}{125}{table.3.59}%
+\contentsline {table}{\numberline {60}{\ignorespaces Recall do RF padrão na validação, nas linhas com e sem conflito entre as sete classes}}{125}{table.3.60}%
+\contentsline {table}{\numberline {61}{\ignorespaces Desempenho dos modelos multiclasse no teste}}{126}{table.3.61}%
+\contentsline {table}{\numberline {62}{\ignorespaces Recall por classe nos modelos multiclasse avaliados no teste}}{126}{table.3.62}%
+\contentsline {table}{\numberline {63}{\ignorespaces Ataque contra BENIGN no teste (as seis classes de ataque agrupadas)}}{127}{table.3.63}%
+\contentsline {table}{\numberline {64}{\ignorespaces Comparação linha a linha entre SVM e RF do mesmo tipo no teste}}{127}{table.3.64}%
+\contentsline {table}{\numberline {65}{\ignorespaces F1 macro e MCC dos modelos multiclasse na validação e no teste}}{127}{table.3.65}%
+\contentsline {table}{\numberline {66}{\ignorespaces Destino dos 2.702 registros Portmap no teste}}{128}{table.3.66}%
+\contentsline {table}{\numberline {67}{\ignorespaces Síntese da comparação entre os modelos multiclasse}}{128}{table.3.67}%
+\contentsline {table}{\numberline {68}{\ignorespaces Cenários dos experimentos de explicabilidade (SHAP)}}{129}{table.3.68}%
+\contentsline {table}{\numberline {69}{\ignorespaces Composição dos cenários da simulação}}{130}{table.3.69}%
+\contentsline {table}{\numberline {70}{\ignorespaces Atributo mais importante e participação de \texttt {avg\_fwd\_segment\_size} na importância global (\%)}}{131}{table.3.70}%
+\contentsline {table}{\numberline {71}{\ignorespaces Comparação com os trabalhos correlatos}}{135}{table.3.71}%

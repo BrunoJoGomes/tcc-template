@@ -1,0 +1,187 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Abiramasundari e Ramaswamy 2025]{abiramasundari2025}
+\abntrefinfo{Abiramasundari e Ramaswamy}{ABIRAMASUNDARI; RAMASWAMY}{2025}
+{ABIRAMASUNDARI, S.; RAMASWAMY, V. Distributed denial-of-service (ddos) attack
+  detection using supervised machine learning algorithms.
+\emph{Scientific Reports}, Nature Portfolio, v.~15, n.~1, p. 1--14, 2025.
+Dispon{\'\i}vel em: \url{https://doi.org/10.1038/s41598-024-84879-y}.}
+
+\bibitem[Aktar e Nur 2023]{aktar2023}
+\abntrefinfo{Aktar e Nur}{AKTAR; NUR}{2023}
+{AKTAR, S.; NUR, A.~Y. Towards ddos attack detection using deep learning
+  approach.
+\emph{Computers \& Security}, v.~129, p. 103251, 2023.}
+
+\bibitem[{Apposite Technologies} 2025]{Apposite2025}
+\abntrefinfo{{Apposite Technologies}}{{Apposite Technologies}}{2025}
+{{Apposite Technologies}. \emph{DDoS Tester}. 2025.
+Acesso em: 20 maio 2026.
+Dispon{\'\i}vel em: \url{https://apposite-tech.com/ddos-tester/}.}
+
+\bibitem[Breiman 2001]{breiman2001}
+\abntrefinfo{Breiman}{BREIMAN}{2001}
+{BREIMAN, L. Random forests.
+\emph{Machine Learning}, v.~45, n.~1, p. 5--32, 2001.
+Dispon{\'\i}vel em:
+  \url{https://link.springer.com/article/10.1023/A:1010933404324}.}
+
+\bibitem[Breiman et al. 1984]{breiman1984}
+\abntrefinfo{Breiman et al.}{BREIMAN et al.}{1984}
+{BREIMAN, L. et al. \emph{Classification and Regression Trees}. 1. ed. New
+  York: Chapman and Hall/CRC, 1984.}
+
+\bibitem[{Check Point Research} 2026]{CheckPoint2026}
+\abntrefinfo{{Check Point Research}}{{Check Point Research}}{2026}
+{{Check Point Research}. \emph{Cyber Security Report 2026}. 2026.
+Publicado em 28 jan. 2026. Acesso em: 1 maio 2026.
+Dispon{\'\i}vel em: \url{https://www.checkpoint.com/security-report/}.}
+
+\bibitem[Chicco e Jurman 2020]{Chicco2020}
+\abntrefinfo{Chicco e Jurman}{CHICCO; JURMAN}{2020}
+{CHICCO, D.; JURMAN, G. The advantages of the matthews correlation coefficient
+  (mcc) over f1 score and accuracy in binary classification evaluation.
+\emph{BMC Genomics}, Springer Nature, v.~21, n.~6, 2020.
+Dispon{\'\i}vel em: \url{https://doi.org/10.1186/s12864-019-6413-7}.}
+
+\bibitem[Chicco e Jurman 2023]{Chicco2023}
+\abntrefinfo{Chicco e Jurman}{CHICCO; JURMAN}{2023}
+{CHICCO, D.; JURMAN, G. The matthews correlation coefficient (mcc) should
+  replace the roc auc as the standard metric for assessing binary
+  classification.
+\emph{BioData Mining}, v.~16, p.~4, 2023.
+Dispon{\'\i}vel em: \url{https://doi.org/10.1186/s13040-023-00322-4}.}
+
+\bibitem[{Escola Superior de Redes} 2020]{esr2020}
+\abntrefinfo{{Escola Superior de Redes}}{{Escola Superior de Redes}}{2020}
+{{Escola Superior de Redes}. \emph{Arquitetura TCP/IP: conceitos básicos}.
+  2020.
+Acesso em: 1 maio 2026.
+Dispon{\'\i}vel em:
+  \url{https://esr.rnp.br/administracao-e-projeto-de-redes/arquitetura-tcp-ip/}.}
+
+\bibitem[Gopalakrishnan, Tuptuk e Hailes 2023]{gopalakrishnan2023}
+\abntrefinfo{Gopalakrishnan, Tuptuk e Hailes}{GOPALAKRISHNAN; TUPTUK;
+  HAILES}{2023}
+{GOPALAKRISHNAN, S.; TUPTUK, N.; HAILES, S. \emph{Machine Learning-based
+  Intrusion Detection Systems: Deployment Guidelines for Industry}. London:
+  PETRAS National Centre of Excellence for IoT Systems Cybersecurity, 2023.}
+
+\bibitem[Hand, Christen e Kirielle 2021]{Hand2021}
+\abntrefinfo{Hand, Christen e Kirielle}{HAND; CHRISTEN; KIRIELLE}{2021}
+{HAND, D.~J.; CHRISTEN, P.; KIRIELLE, N. F*: an interpretable transformation of
+  the f-measure.
+\emph{Machine Learning}, Springer Nature, v.~110, p. 451--456, 2021.
+Dispon{\'\i}vel em: \url{https://doi.org/10.1007/s10994-021-05964-1}.}
+
+\bibitem[Hirsi et al. 2024]{hirsi2024}
+\abntrefinfo{Hirsi et al.}{HIRSI et al.}{2024}
+{HIRSI, A. et al. Detecting ddos threats using supervised machine learning for
+  traffic classification in software defined networking.
+\emph{IEEE Access}, v.~12, p. 166675--166702, 2024.
+Dispon{\'\i}vel em: \url{https://doi.org/10.1109/ACCESS.2024.3486034}.}
+
+\bibitem[{IBM} 2026]{ibm2026}
+\abntrefinfo{{IBM}}{{IBM}}{2026}
+{{IBM}. \emph{O que é um ataque distributed denial-of-service (DDoS)?} 2026.
+Acesso em: 1 maio 2026.
+Dispon{\'\i}vel em: \url{https://www.ibm.com/br-pt/think/topics/ddos}.}
+
+\bibitem[Luxburg e Sch{\"o}lkopf 2008]{luxburg2008}
+\abntrefinfo{Luxburg e Sch{\"o}lkopf}{LUXBURG; SCH{\"O}LKOPF}{2008}
+{LUXBURG, U. von; SCH{\"O}LKOPF, B. Statistical learning theory: Models,
+  concepts, and results.
+\emph{arXiv}, 2008.
+ArXiv:0810.4752.
+Dispon{\'\i}vel em: \url{https://arxiv.org/abs/0810.4752}.}
+
+\bibitem[Mitchell 1997]{mitchell1997}
+\abntrefinfo{Mitchell}{MITCHELL}{1997}
+{MITCHELL, T.~M. \emph{Machine Learning}. New York: McGraw-Hill, 1997.
+ISBN 9780070428072.}
+
+\bibitem[Mohri, Rostamizadeh e Talwalkar 2018]{mohri2018}
+\abntrefinfo{Mohri, Rostamizadeh e Talwalkar}{MOHRI; ROSTAMIZADEH;
+  TALWALKAR}{2018}
+{MOHRI, M.; ROSTAMIZADEH, A.; TALWALKAR, A. \emph{Foundations of Machine
+  Learning}. 2. ed. Cambridge: MIT Press, 2018.}
+
+\bibitem[{NETSCOUT} 2025]{NETSCOUT2025}
+\abntrefinfo{{NETSCOUT}}{{NETSCOUT}}{2025}
+{{NETSCOUT}. \emph{Latin America Regional DDoS Cyber Threat Intelligence
+  Report}. 2025.
+Acesso em: 1 maio 2026.
+Dispon{\'\i}vel em: \url{https://www.netscout.com/threatreport/latam/}.}
+
+\bibitem[Ouhssini et al. 2024]{ouhssini2024}
+\abntrefinfo{Ouhssini et al.}{OUHSSINI et al.}{2024}
+{OUHSSINI, M. et al. Advancements in detecting, preventing, and mitigating ddos
+  attacks in cloud environments: A comprehensive systematic review of
+  state-of-the-art approaches.
+\emph{Egyptian Informatics Journal}, v.~27, p. 100517, 2024.
+Dispon{\'\i}vel em: \url{https://doi.org/10.1016/j.eij.2024.100517}.}
+
+\bibitem[Rainio, Teuho e Kl{\"e}n 2024]{Rainio2024}
+\abntrefinfo{Rainio, Teuho e Kl{\"e}n}{RAINIO; TEUHO; KL{\"E}N}{2024}
+{RAINIO, O.; TEUHO, J.; KL{\"E}N, R. Evaluation metrics and statistical tests
+  for machine learning.
+\emph{Scientific Reports}, Springer Nature, v.~14, n.~1, 2024.
+Dispon{\'\i}vel em: \url{https://doi.org/10.1038/s41598-024-56706-x}.}
+
+\bibitem[Rastogi et al. 2022]{rastogi2022}
+\abntrefinfo{Rastogi et al.}{RASTOGI et al.}{2022}
+{RASTOGI, S. et al. An analysis of intrusion detection classification using
+  supervised machine learning algorithms on nsl-kdd dataset.
+\emph{Journal of Computing Research and Innovation}, v.~7, n.~1, p. 118--130,
+  2022.
+Dispon{\'\i}vel em: \url{https://doi.org/10.24191/jcrinn.v7i1.274}.}
+
+\bibitem[Russell e Norvig 2010]{russell2010}
+\abntrefinfo{Russell e Norvig}{RUSSELL; NORVIG}{2010}
+{RUSSELL, S.~J.; NORVIG, P. \emph{Artificial Intelligence: A Modern Approach}.
+  3. ed. Upper Saddle River: Pearson Education, 2010.}
+
+\bibitem[Schneier 1996]{schneier1996}
+\abntrefinfo{Schneier}{SCHNEIER}{1996}
+{SCHNEIER, B. \emph{Applied Cryptography: Protocols, Algorithms, and Source
+  Code in C}. 2. ed. New York: John Wiley \& Sons, 1996.}
+
+\bibitem[Sharafaldin et al. 2019]{sharafaldin2019}
+\abntrefinfo{Sharafaldin et al.}{SHARAFALDIN et al.}{2019}
+{SHARAFALDIN, I. et al. Developing realistic distributed denial of service
+  (ddos) attack dataset and taxonomy. In:  \emph{2019 International Carnahan
+  Conference on Security Technology (ICCST)}. Chennai: IEEE, 2019.}
+
+\bibitem[Stallings 2022]{stallings2022}
+\abntrefinfo{Stallings}{STALLINGS}{2022}
+{STALLINGS, W. \emph{Cryptography and Network Security: Principles and
+  Practice}. 8. ed. Harlow: Pearson, 2022.
+ISBN 9781292437484.}
+
+\bibitem[Stevens 1994]{stevens1994}
+\abntrefinfo{Stevens}{STEVENS}{1994}
+{STEVENS, W.~R. \emph{TCP/IP Illustrated, Volume 1: The Protocols}. 1. ed.
+  Reading: Addison-Wesley, 1994.}
+
+\bibitem[Tanenbaum e Wetherall 2011]{tanenbaum2011}
+\abntrefinfo{Tanenbaum e Wetherall}{TANENBAUM; WETHERALL}{2011}
+{TANENBAUM, A.~S.; WETHERALL, D.~J. \emph{Redes de Computadores}. 5. ed. São
+  Paulo: Pearson, 2011. Tradução de Daniel Vieira.}
+
+\bibitem[Thaqi et al. 2026]{thaqi2026}
+\abntrefinfo{Thaqi et al.}{THAQI et al.}{2026}
+{THAQI, R. et al. Online machine learning for proactive threat intelligence and
+  timely ddos attack prediction.
+\emph{Journal of Cloud Computing}, Springer Nature, v.~15, n.~22, 2026.
+Dispon{\'\i}vel em: \url{https://doi.org/10.1186/s13677-026-00848-y}.}
+
+\bibitem[Vapnik 1998]{vapnik1998}
+\abntrefinfo{Vapnik}{VAPNIK}{1998}
+{VAPNIK, V.~N. \emph{Statistical Learning Theory}. New York: Wiley, 1998.}
+
+\end{thebibliography}

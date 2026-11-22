@@ -1,0 +1,82 @@
+This is BibTeX, Version 0.99e
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: tcc2.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+The style file: abntex2-alf.bst
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Database file #1: abntex2-options.bib
+Database file #2: bibliografia_tcc2.bib
+Warning--I didn't find a database entry for "najafimehr2023"
+Warning--I didn't find a database entry for "mahjabin2017"
+Warning--I didn't find a database entry for "apostu2026"
+Warning--I didn't find a database entry for "subramani2021"
+Warning--I didn't find a database entry for "guastalla2024"
+Warning--I didn't find a database entry for "argerich2024"
+Warning--I didn't find a database entry for "stallings2020"
+Warning--I didn't find a database entry for "yang2024"
+Warning--I didn't find a database entry for "vonluxburg2011"
+Warning--I didn't find a database entry for "becerra2025"
+Warning--I didn't find a database entry for "cortespvapnik1995"
+Warning--I didn't find a database entry for "minh2022"
+Warning--I didn't find a database entry for "lundberg2017"
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+You've used 29 entries,
+            6714 wiz_defined-function locations,
+            1389 strings with 14274 characters,
+and the built_in function-call counts, 36815 in all, are:
+= -- 4023
+> -- 857
+< -- 761
++ -- 1078
+- -- 257
+* -- 2379
+:= -- 4645
+add.period$ -- 117
+call.type$ -- 29
+change.case$ -- 300
+chr.to.int$ -- 83
+cite$ -- 28
+duplicate$ -- 3247
+empty$ -- 1701
+format.name$ -- 1228
+if$ -- 7688
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 531
+newline$ -- 156
+num.names$ -- 140
+pop$ -- 714
+preamble$ -- 1
+purify$ -- 114
+quote$ -- 0
+skip$ -- 3328
+stack$ -- 1
+substring$ -- 1478
+swap$ -- 1227
+text.length$ -- 41
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1
+warning$ -- 0
+while$ -- 204
+width$ -- 0
+write$ -- 458
+(There were 13 warnings)
